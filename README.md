@@ -75,10 +75,10 @@ https://maelfabien.github.io/statistics/GLS/
 10. Statistics in Matlab (4mn read)
 https://maelfabien.github.io/statistics/matlab/
 
-**11. Introduction to Time Series (4mn read)**
+11. **Introduction to Time Series (4mn read)**
 https://maelfabien.github.io/statistics/TimeSeries1/
 
-**12. Key concepts of Time Series (2mn read)**
+12. **Key concepts of Time Series (2mn read)**
 https://maelfabien.github.io/statistics/TimeSeries2/
 
 ## 3. Machine Learning
@@ -113,16 +113,16 @@ https://maelfabien.github.io/machinelearning/HMM_1/
 10. Hidden Markov Models (6mn read)
 https://maelfabien.github.io/machinelearning/HMM_2/
 
-**11. Introduction to Graph Mining (5mn read)**
+11. **Introduction to Graph Mining (5mn read)**
 https://maelfabien.github.io/machinelearning/graph_1/
 
-**12. Graph Analysis (4mn read)**
+12. **Graph Analysis (4mn read)**
 https://maelfabien.github.io/machinelearning/graph_2/
 
-**13. Graph Algorithms (11mn read)**
+13. **Graph Algorithms (11mn read)**
 https://maelfabien.github.io/machinelearning/graph_3/
 
-**14. Graph Learning (8mn read)**
+14. **Graph Learning (8mn read)**
 https://maelfabien.github.io/machinelearning/graph_4/
 
 ## 4. Deep Learning
@@ -145,10 +145,10 @@ https://maelfabien.github.io/deeplearning/inception/
 6. **Build an autoencoder using Keras functional API** (5mn read)
 https://maelfabien.github.io/deeplearning/autoencoder/
 
-**7. XCeption Architecture (3mn read)**
+7. **XCeption Architecture (3mn read)**
 https://maelfabien.github.io/deeplearning/xception/
 
-**8. GANs on the MNIST dataset** 
+8. **GANs on the MNIST dataset** 
 (Article to come)
 
 ## 5. Data Engineering
@@ -212,7 +212,6 @@ https://maelfabien.github.io/bigdata/Scala/
 
 20. Move Scala Dataframes to Cassandra (2mn)
 https://maelfabien.github.io/bigdata/Scala_Cassandra/
-
 
 
 ####
