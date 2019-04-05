@@ -84,18 +84,8 @@ The repository is organized the following way :
 | Convolutional Neural Network | 2mn | [here](https://maelfabien.github.io/deeplearning/cnn/#) | --- |
 | Inception Architecture in Keras | 2mn | [here](https://maelfabien.github.io/deeplearning/inception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/5-Inception) |
 | Build an autoencoder using Keras functional API | 5mn | [here](https://maelfabien.github.io/deeplearning/autoencoder/) | --- |
-
-
-
-
-6. **Build an autoencoder using Keras functional API** (5mn read)
-https://maelfabien.github.io/deeplearning/autoencoder/
-
-7. **XCeption Architecture (3mn read)**
-https://maelfabien.github.io/deeplearning/xception/
-
-8. **GANs on the MNIST dataset** 
-(Article to come)
+| XCeption Architecture | 3mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/7-Xception) |
+| GANs on the MNIST dataset | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/8-GANs) |
 
 ## 6. Medium Articles
 
