@@ -23,29 +23,16 @@ The repository is organized the following way :
 
 <a href="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/unsupervised.pdf"><img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/unsup.png?" alt="Illustration" width="220px"/></a>
 
-| Title | Article | Code Folder |
-| --- | --- | --- |
-| A full guide to Face, Mouth and Eyes Real Time detection | [here](https://maelfabien.github.io/tutorials/face-detection/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/01-FaceDetection) |
-
 ## 1. Computer Vision
 
-1. [A full guide to Face, Mouth and Eyes Real Time detection](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/01-FaceDetection) (16mn read)
-https://maelfabien.github.io/tutorials/face-detection/
-
-2. How to use OpenPose on MacOS ? (3mn read)
-https://maelfabien.github.io/tutorials/open-pose/
-
-3. Introduction to Computer Vision (1mn read)
-https://maelfabien.github.io/computervision/cv_1/
-
-4. **Image Filtering and Image Gradients** (5mn read)
-https://maelfabien.github.io/computervision/cv_2/
-
-5. Advanced Filtering and Image Transformation (5mn read)
-https://maelfabien.github.io/computervision/cv_3/#
-
-6. Image Features, Panorama, Matching (5mn read)
-https://maelfabien.github.io/computervision/cv_4/#
+| Title | Read Time | Article | Code Folder |
+| --- | --- | --- |
+| A full guide to Face, Mouth and Eyes Real Time detection | 16mn | [here](https://maelfabien.github.io/tutorials/face-detection/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/01-FaceDetection) |
+| How to use OpenPose on MacOS ? | 3mn | [here](https://maelfabien.github.io/tutorials/open-pose/) | |
+| Introduction to Computer Vision | 1mn | [here](https://maelfabien.github.io/computervision/cv_1/) | |
+| Image Filtering and Image Gradients | 5mn | [here](https://maelfabien.github.io/computervision/cv_2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/04-ImageFiltering) |
+| Advanced Filtering and Image Transformation | 5mn | [here](https://maelfabien.github.io/computervision/cv_3/#) | |
+| Image Features, Panorama, Matching | 5mn | [here](https://maelfabien.github.io/computervision/cv_4/#) | |
 
 ## 2. Statistics
 
