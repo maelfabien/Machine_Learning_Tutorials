@@ -34,104 +34,59 @@ The repository is organized the following way :
 | Advanced Filtering and Image Transformation | 5mn | [here](https://maelfabien.github.io/computervision/cv_3/#) | --- |
 | Image Features, Panorama, Matching | 5mn | [here](https://maelfabien.github.io/computervision/cv_4/#) | --- |
 
-## 2. Statistics
+## 2. Natural Language Processing
 
-1. **The linear regression model** (10mn read)
-https://maelfabien.github.io/statistics/linreg/
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| Text Pre-Processing  | 7mn | [here](https://maelfabien.github.io/machinelearning/NLP_1/) | --- |
+| Text Embedding with BoW and Tf-Idf  | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
+| Text Embedding with Word2Vec | 3mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
 
-2. Multidimensional Linear Regression (3mn read)
-https://maelfabien.github.io/statistics/linreg2/
+## 3. Statistics
 
-3. Random Design Matrix (1mn read)
-https://maelfabien.github.io/statistics/rnddesign/
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| The linear regression model | 10mn | [here](https://maelfabien.github.io/statistics/linreg/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/01-LinearRegression) |
+| Multidimensional Linear Regression | 3mn | [here](https://maelfabien.github.io/statistics/linreg2/) | --- |
+| Normal Regression Model | 1mn | [here](https://maelfabien.github.io/statistics/normal/) | --- |
+| Pseudo-Least Squares | 1mn | [here](https://maelfabien.github.io/statistics/pseudols/) | --- |
+| Transformations of linear models | 1mn | [here](https://maelfabien.github.io/statistics/Special/) | --- |
+| Dealing with boolean and categorical variables | 1mn | [here](https://maelfabien.github.io/statistics/Boolean/) | --- |
+| Basics of Statistical Hypothesis Testing | 5mn | [here](https://maelfabien.github.io/statistics/Tests/) | --- |
+| Generalized Least Squares | 2mn | [here](https://maelfabien.github.io/statistics/GLS/) | --- |
+| Statistics in Matlab | 4mn | [here](https://maelfabien.github.io/statistics/matlab/) | --- |
+| Introduction to Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/11-TimeSeries) |
+| Key concepts of Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/11-TimeSeries) |
 
-4. Normal Regression Model (1mn read)
-https://maelfabien.github.io/statistics/normal/
+## 4. Machine Learning
 
-5. Pseudo-Least Squares (1mn read)
-https://maelfabien.github.io/statistics/pseudols/
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| The Basics of Machine Learning | 4mn | [here](https://maelfabien.github.io/machinelearning/ml_base/) | --- |
+| Bayes Classifier | 1mn | [here](https://maelfabien.github.io/machinelearning/bayes/) | --- |
+| Linear Discriminant Analysis | 1mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
+| Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/04-AdaBoost) |
+| Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/05-LargeScaleKernel) |
+| Markov Processes | 9mn | [here](https://maelfabien.github.io/machinelearning/HMM_1/) | --- |
+| Hidden Markov Models | 6mn | [here](https://maelfabien.github.io/machinelearning/HMM_2/) | --- |
+| Introduction to Graph Mining | 5mn | [here](https://maelfabien.github.io/machinelearning/graph_1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
+| Graph Analysis | 4mn | [here](https://maelfabien.github.io/machinelearning/graph_2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
+| Graph Algorithms | 11mn | [here](https://maelfabien.github.io/machinelearning/graph_3/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
+| Graph Learning | 8mn | [here](https://maelfabien.github.io/machinelearning/graph_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
 
-6. Transformations of linear models (1mn read)
-https://maelfabien.github.io/statistics/Special/
+## 5. Deep Learning
 
-7. Dealing with boolean and categorical variables (1mn read)
-https://maelfabien.github.io/statistics/Boolean/
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| The Rosenbaltt's Perceptron | 3mn | [here](https://maelfabien.github.io/deeplearning/Perceptron/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/1-Perceptron) |
+| Multilayer Perceptron (MLP) | 5mn | [here](https://maelfabien.github.io/deeplearning/mlp/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/2-MultilayerPerceptron) |
+| Regularization Techniques | 1mn | [here](https://maelfabien.github.io/deeplearning/regu/) | --- |
+| Convolutional Neural Network | 2mn | [here](https://maelfabien.github.io/deeplearning/cnn/#) | --- |
+| Inception Architecture in Keras | 2mn | [here](https://maelfabien.github.io/deeplearning/inception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/5-Inception) |
+| Build an autoencoder using Keras functional API | 5mn | [here](https://maelfabien.github.io/deeplearning/autoencoder/) | --- |
 
-8. Basics of Statistical Hypothesis Testing (5mn read)
-https://maelfabien.github.io/statistics/Tests/
 
-9. Generalized Least Squares (2mn read)
-https://maelfabien.github.io/statistics/GLS/
 
-10. Statistics in Matlab (4mn read)
-https://maelfabien.github.io/statistics/matlab/
-
-11. **Introduction to Time Series (4mn read)**
-https://maelfabien.github.io/statistics/TimeSeries1/
-
-12. **Key concepts of Time Series (2mn read)**
-https://maelfabien.github.io/statistics/TimeSeries2/
-
-## 3. Machine Learning
-
-1. The Basics of Machine Learning (4mn read)
-https://maelfabien.github.io/machinelearning/ml_base/
-
-2. Bayes Classifier (1mn read)
-https://maelfabien.github.io/machinelearning/bayes/
-
-3. Linear Discriminant Analysis (3mn read)
-https://maelfabien.github.io/machinelearning/LDA/
-
-4. **Adaboost and Boosting** (7mn read)
-https://maelfabien.github.io/machinelearning/adaboost/
-
-5. **Large Scale Kernel Methods for SVM** (9mn read)
-https://maelfabien.github.io/machinelearning/largescale/#svm-classifier
-
-6. Text Pre-Processing (7mn read)
-https://maelfabien.github.io/machinelearning/NLP_1/
-
-7. Text Embedding with BoW and Tf-Idf (6mn read)
-https://maelfabien.github.io/machinelearning/NLP_2/
-
-8. Text Embedding with Word2Vec (3mn read)
-https://maelfabien.github.io/machinelearning/NLP_3/
-
-9. Markov Processes (9mn read)
-https://maelfabien.github.io/machinelearning/HMM_1/
-
-10. Hidden Markov Models (6mn read)
-https://maelfabien.github.io/machinelearning/HMM_2/
-
-11. **Introduction to Graph Mining (5mn read)**
-https://maelfabien.github.io/machinelearning/graph_1/
-
-12. **Graph Analysis (4mn read)**
-https://maelfabien.github.io/machinelearning/graph_2/
-
-13. **Graph Algorithms (11mn read)**
-https://maelfabien.github.io/machinelearning/graph_3/
-
-14. **Graph Learning (8mn read)**
-https://maelfabien.github.io/machinelearning/graph_4/
-
-## 4. Deep Learning
-
-1. **The Rosenbaltt's Perceptron** (3mn read)
-https://maelfabien.github.io/deeplearning/Perceptron/
-
-2. **Multilayer Perceptron (MLP)** (5mn read)
-https://maelfabien.github.io/deeplearning/mlp/
-
-3. Regularization Techniques (1mn read)
-https://maelfabien.github.io/deeplearning/regu/
-
-4. Convolutional Neural Network (2mn read)
-https://maelfabien.github.io/deeplearning/cnn/#
-
-5. **Inception Architecture in Keras** (2mn read)
-https://maelfabien.github.io/deeplearning/inception/
 
 6. **Build an autoencoder using Keras functional API** (5mn read)
 https://maelfabien.github.io/deeplearning/autoencoder/
@@ -142,13 +97,13 @@ https://maelfabien.github.io/deeplearning/xception/
 8. **GANs on the MNIST dataset** 
 (Article to come)
 
-## 5. Medium Articles
+## 6. Medium Articles
 
 1. AdaBoost : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
 
 2. Face Detection : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
 
-## 6. Data Engineering
+## 7. Data Engineering
 
 1. Understanding Computer Components (6mn read)
 https://maelfabien.github.io/bigdata/comp_components/
