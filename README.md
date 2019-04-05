@@ -11,7 +11,7 @@ https://maelfabien.github.io/
 The repository is organized the following way :
 - articles and tutorials are posted by category
 - there is a link to the article in question with the read time specified
-- the number of the article designates the folder of the repository linked to the article
+- artiles in Bold have a corresponding folder in this repo
 
 ## Machine Learning Cheatsheet :
 
