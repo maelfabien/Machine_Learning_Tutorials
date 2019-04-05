@@ -153,9 +153,9 @@ https://maelfabien.github.io/deeplearning/xception/
 
 ## 5. Medium Articles
 
-- AdaBoost : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
+1. AdaBoost : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
 
-- Face Detection : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+2. Face Detection : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
 
 ## 6. Data Engineering
 
