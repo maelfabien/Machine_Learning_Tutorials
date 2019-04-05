@@ -25,7 +25,7 @@ The repository is organized the following way :
 
 ## 1. Computer Vision
 
-1. **A full guide to Face, Mouth and Eyes Real Time detection** (16mn read)
+1. **[A full guide to Face, Mouth and Eyes Real Time detection](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/01-FaceDetection)** (16mn read)
 https://maelfabien.github.io/tutorials/face-detection/
 
 2. How to use OpenPose on MacOS ? (3mn read)
