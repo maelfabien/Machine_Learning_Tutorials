@@ -151,7 +151,13 @@ https://maelfabien.github.io/deeplearning/xception/
 8. **GANs on the MNIST dataset** 
 (Article to come)
 
-## 5. Data Engineering
+## 5. Medium Articles
+
+- AdaBoost : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
+
+- Face Detection : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+
+## 6. Data Engineering
 
 1. Understanding Computer Components (6mn read)
 https://maelfabien.github.io/bigdata/comp_components/
