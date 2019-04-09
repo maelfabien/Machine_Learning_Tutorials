@@ -1,5 +1,7 @@
 # Machine Learning Tutorials and Articles
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/maelfabien.svg?style=social"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/maelfabien/Machine_Learning_Tutorials.svg"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/maelfabien/Machine_Learning_Tutorials.svg"> <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3.svg">
+
 In this repository, I'll upload machine learning tutorials (with code) for most common algorithms. These tutorials might include an explanation of the algorithm, an implementation of the algorithm (from scratch or using a library), as well as an example on a publically available data set.
 
 First of all, if you're not familiar with the key concepts of machine learrning, make sure to check this first article :
