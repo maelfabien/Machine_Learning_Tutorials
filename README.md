@@ -15,7 +15,7 @@ The repository is organized the following way :
 - there is a link to the article in question with the read time specified
 - artiles in Bold have a corresponding folder in this repo
 
-You would like to work on an article with me ? Feel free to send me a message ! (mael.fabien@gmail.com)
+You would like to work on an article with me ? Or you would like me to work on a specific topic ? Feel free to reach out ! (mael.fabien@gmail.com)
 
 ## Machine Learning Cheatsheet :
 
@@ -92,13 +92,19 @@ You would like to work on an article with me ? Feel free to send me a message ! 
 | XCeption Architecture | 5mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/7-Xception) |
 | GANs on the MNIST dataset | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/8-GANs) |
 
-## 6. Medium Articles
+## 6. Deep Learning
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| Interactive graphs in Python with Altair | 3mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here]
+
+## 7. Medium Articles
 
 1. AdaBoost : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
 
 2. Face Detection : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
 
-## 7. Data Engineering
+## 8. Data Engineering
 
 1. Understanding Computer Components (6mn read)
 https://maelfabien.github.io/bigdata/comp_components/
