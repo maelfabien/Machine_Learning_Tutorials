@@ -15,6 +15,8 @@ The repository is organized the following way :
 - there is a link to the article in question with the read time specified
 - artiles in Bold have a corresponding folder in this repo
 
+You would like to work on an article with me ? Feel free to send me a message ! (mael.fabien@gmail.com)
+
 ## Machine Learning Cheatsheet :
 
 1. Supervised Learning
@@ -87,7 +89,7 @@ The repository is organized the following way :
 | Convolutional Neural Network | 2mn | [here](https://maelfabien.github.io/deeplearning/cnn/#) | --- |
 | Inception Architecture in Keras | 2mn | [here](https://maelfabien.github.io/deeplearning/inception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/5-Inception) |
 | Build an autoencoder using Keras functional API | 5mn | [here](https://maelfabien.github.io/deeplearning/autoencoder/) | --- |
-| XCeption Architecture | 3mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/7-Xception) |
+| XCeption Architecture | 5mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/7-Xception) |
 | GANs on the MNIST dataset | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/8-GANs) |
 
 ## 6. Medium Articles
