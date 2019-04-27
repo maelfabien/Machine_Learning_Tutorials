@@ -92,7 +92,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | XCeption Architecture | 5mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/7-Xception) |
 | GANs on the MNIST dataset | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/8-GANs) |
 
-## 6. Deep Learning
+## 6. Data Visualization
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
