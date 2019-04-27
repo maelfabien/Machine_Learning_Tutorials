@@ -66,6 +66,7 @@ The repository is organized the following way :
 | --- | --- | --- | --- |
 | The Basics of Machine Learning | 4mn | [here](https://maelfabien.github.io/machinelearning/ml_base/) | --- |
 | Bayes Classifier | 1mn | [here](https://maelfabien.github.io/machinelearning/bayes/) | --- |
+| Logistic Regression | 3mn | [here](https://maelfabien.github.io/statistics/linreg3/) | --- |
 | Linear Discriminant Analysis | 1mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
 | Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/04-AdaBoost) |
 | Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/05-LargeScaleKernel) |
