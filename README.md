@@ -96,7 +96,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
-| Interactive graphs in Python with Altair | 3mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here]
+| Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here]
 
 ## 7. Medium Articles
 
