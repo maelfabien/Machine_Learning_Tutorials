@@ -72,7 +72,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Linear Discriminant Analysis | 1mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
 | Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/04-AdaBoost) |
 | Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/05-LargeScaleKernel) |
-| Markov Processes | 9mn | [here](https://maelfabien.github.io/machinelearning/HMM_1/) | --- |
+| Markov Chains | 9mn | [here](https://maelfabien.github.io/machinelearning/HMM_1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/HMM) |
 | Hidden Markov Models | 6mn | [here](https://maelfabien.github.io/machinelearning/HMM_2/) | --- |
 | Introduction to Graph Mining | 5mn | [here](https://maelfabien.github.io/machinelearning/graph_1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
 | Graph Analysis | 4mn | [here](https://maelfabien.github.io/machinelearning/graph_2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
