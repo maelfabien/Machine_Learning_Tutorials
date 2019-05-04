@@ -50,7 +50,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
-| The linear regression model | 10mn | [here](https://maelfabien.github.io/statistics/linreg/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/01-LinearRegression) |
+| The linear regression model | 10mn | [here](https://maelfabien.github.io/statistics/linreg/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
 | Multidimensional Linear Regression | 3mn | [here](https://maelfabien.github.io/statistics/linreg2/) | --- |
 | Normal Regression Model | 1mn | [here](https://maelfabien.github.io/statistics/normal/) | --- |
 | Pseudo-Least Squares | 1mn | [here](https://maelfabien.github.io/statistics/pseudols/) | --- |
@@ -59,8 +59,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Basics of Statistical Hypothesis Testing | 5mn | [here](https://maelfabien.github.io/statistics/Tests/) | --- |
 | Generalized Least Squares | 2mn | [here](https://maelfabien.github.io/statistics/GLS/) | --- |
 | Statistics in Matlab | 4mn | [here](https://maelfabien.github.io/statistics/matlab/) | --- |
-| Introduction to Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/11-TimeSeries) |
-| Key concepts of Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/11-TimeSeries) |
+| Introduction to Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/TimeSeries) |
+| Key concepts of Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/TimeSeries) |
 
 ## 4. Machine Learning
 
@@ -70,36 +70,36 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Bayes Classifier | 1mn | [here](https://maelfabien.github.io/machinelearning/bayes/) | --- |
 | Logistic Regression | 3mn | [here](https://maelfabien.github.io/statistics/linreg3/) | --- |
 | Linear Discriminant Analysis | 1mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
-| Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/04-AdaBoost) |
-| Gradient Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/GradientBoost/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/04-AdaBoost) |
-| Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/05-LargeScaleKernel) |
+| Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/AdaBoost) |
+| Gradient Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/GradientBoost/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/AdaBoost) |
+| Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/LargeScaleKernel) |
 | Markov Chains | 9mn | [here](https://maelfabien.github.io/machinelearning/HMM_1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/HMM) |
 | Hidden Markov Models | 6mn | [here](https://maelfabien.github.io/machinelearning/HMM_2/) | --- |
-| Introduction to Graph Mining | 5mn | [here](https://maelfabien.github.io/machinelearning/graph_1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
-| Graph Analysis | 4mn | [here](https://maelfabien.github.io/machinelearning/graph_2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
-| Graph Algorithms | 11mn | [here](https://maelfabien.github.io/machinelearning/graph_3/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
-| Graph Learning | 8mn | [here](https://maelfabien.github.io/machinelearning/graph_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/11-GraphMining) |
+| Introduction to Graph Mining | 5mn | [here](https://maelfabien.github.io/machinelearning/graph_1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
+| Graph Analysis | 4mn | [here](https://maelfabien.github.io/machinelearning/graph_2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
+| Graph Algorithms | 11mn | [here](https://maelfabien.github.io/machinelearning/graph_3/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
+| Graph Learning | 8mn | [here](https://maelfabien.github.io/machinelearning/graph_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
 
 ## 5. Deep Learning
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
-| The Rosenbaltt's Perceptron | 3mn | [here](https://maelfabien.github.io/deeplearning/Perceptron/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/1-Perceptron) |
-| Multilayer Perceptron (MLP) | 5mn | [here](https://maelfabien.github.io/deeplearning/mlp/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/2-MultilayerPerceptron) |
+| The Rosenbaltt's Perceptron | 3mn | [here](https://maelfabien.github.io/deeplearning/Perceptron/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Perceptron) |
+| Multilayer Perceptron (MLP) | 5mn | [here](https://maelfabien.github.io/deeplearning/mlp/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/MultilayerPerceptron) |
 | Regularization Techniques | 1mn | [here](https://maelfabien.github.io/deeplearning/regu/) | --- |
 | Convolutional Neural Network | 2mn | [here](https://maelfabien.github.io/deeplearning/cnn/#) | --- |
-| Inception Architecture in Keras | 2mn | [here](https://maelfabien.github.io/deeplearning/inception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/5-Inception) |
+| Inception Architecture in Keras | 2mn | [here](https://maelfabien.github.io/deeplearning/inception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Inception) |
 | Build an autoencoder using Keras functional API | 5mn | [here](https://maelfabien.github.io/deeplearning/autoencoder/) | --- |
-| XCeption Architecture | 5mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/7-Xception) |
-| GANs on the MNIST dataset | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/8-GANs) |
+| XCeption Architecture | 5mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Xception) |
+| GANs on the MNIST dataset | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/GANs) |
 
 ## 6. Data Visualization
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
 | Introduction to Data Viz | 5mn | [here](https://maelfabien.github.io/machinelearning/Dataviz/) | --- |
-| Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/2-Altair) |
-| Dynamic plots with BQ-Plot | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/1-BQPlot) |
+| Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/Altair) |
+| Dynamic plots with BQ-Plot | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/BQPlot) |
 
 ## 7. Medium Articles
 
