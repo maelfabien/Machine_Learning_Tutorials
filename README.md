@@ -71,7 +71,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Logistic Regression | 3mn | [here](https://maelfabien.github.io/statistics/linreg3/) | --- |
 | Linear Discriminant Analysis | 1mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
 | Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/AdaBoost) |
-| Gradient Boosting | 6mn | [here](https://maelfabien.github.io/machinelearning/GradientBoost/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GradientBoost) |
+| Gradient Boosting Regression | 6mn | [here](https://maelfabien.github.io/machinelearning/GradientBoost/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GradientBoost) |
+| Gradient Boosting Classification | 3mn | [here](https://maelfabien.github.io/machinelearning/GradientBoostC/#) | --- |
 | Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/LargeScaleKernel) |
 | Markov Chains | 9mn | [here](https://maelfabien.github.io/machinelearning/HMM_1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/HMM) |
 | Hidden Markov Models | 6mn | [here](https://maelfabien.github.io/machinelearning/HMM_2/) | --- |
