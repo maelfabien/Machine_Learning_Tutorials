@@ -104,9 +104,11 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 ## 7. Medium Articles
 
-1. AdaBoost : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
+1. Boosting and Adaboost clearly explained : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
 
-2. Face Detection : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+2. A guide to Face Detection in Python : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+
+3. Markov Chains and HMMs : https://towardsdatascience.com/markov-chains-and-hmms-ceaf2c854788
 
 ## 8. Data Engineering
 
