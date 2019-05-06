@@ -81,6 +81,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Graph Algorithms | 11mn | [here](https://maelfabien.github.io/machinelearning/graph_3/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
 | Graph Learning | 8mn | [here](https://maelfabien.github.io/machinelearning/graph_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
 | AutoML with h2o | 6mn | [here](https://maelfabien.github.io/machinelearning/AutoML/#) | --- |
+| Bayesian Hyperparameter Optimization | 6mn | [here](https://maelfabien.github.io/machinelearning/HyperOpt/#) | --- |
 
 ## 5. Deep Learning
 
