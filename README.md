@@ -177,5 +177,8 @@ https://maelfabien.github.io/bigdata/Scala_Cassandra/
 21. Introduction to Hadoop (4mn)
 https://maelfabien.github.io/bigdata/hadoop/#
 
+22. Introduction to Hadoop (3mn)
+https://maelfabien.github.io/bigdata/MapReduce/#
+
 ####
 Stay tuned, new articles coming weekly :)
