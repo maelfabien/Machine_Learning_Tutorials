@@ -174,6 +174,8 @@ https://maelfabien.github.io/bigdata/Scala/
 20. Move Scala Dataframes to Cassandra (2mn)
 https://maelfabien.github.io/bigdata/Scala_Cassandra/
 
+21. Introduction to Hadoop (4mn)
+https://maelfabien.github.io/bigdata/hadoop/#
 
 ####
 Stay tuned, new articles coming weekly :)
