@@ -180,10 +180,10 @@ https://maelfabien.github.io/bigdata/hadoop/#
 22. MapReduce (3mn)
 https://maelfabien.github.io/bigdata/MapReduce/#
 
-22. HDFS (2mn)
+23. HDFS (2mn)
 https://maelfabien.github.io/bigdata/HDFS/#
 
-23. VMs in Virtual Box (1mn)
+24. VMs in Virtual Box (1mn)
 https://maelfabien.github.io/bigdata/VM/#
 
 ####
