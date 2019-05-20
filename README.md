@@ -183,5 +183,8 @@ https://maelfabien.github.io/bigdata/MapReduce/#
 22. HDFS (2mn)
 https://maelfabien.github.io/bigdata/HDFS/#
 
+23. VMs in Virtual Box (1mn)
+https://maelfabien.github.io/bigdata/VM/#
+
 ####
 Stay tuned, new articles coming weekly :)
