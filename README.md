@@ -186,5 +186,17 @@ https://maelfabien.github.io/bigdata/HDFS/#
 24. VMs in Virtual Box (1mn)
 https://maelfabien.github.io/bigdata/VM/#
 
+25. Hadoop with the HortonWorks Sandbox (1/4) (2mn)
+https://maelfabien.github.io/bigdata/HortonWorks/
+
+26. Load and move files to HDFS (2/4) (2mn)
+https://maelfabien.github.io/bigdata/HDFS_2/
+
+27. Launch a MapReduce Job (3/4) (2mn)
+https://maelfabien.github.io/bigdata/MRJob/
+
+28. MapReduce Jobs in Python (4/4) (3mn)
+https://maelfabien.github.io/bigdata/MRJobP/
+
 ####
 Stay tuned, new articles coming weekly :)
