@@ -2,7 +2,7 @@
 
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/maelfabien/Machine_Learning_Tutorials.svg?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/maelfabien/Machine_Learning_Tutorials.svg?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/maelfabien/Machine_Learning_Tutorials.svg?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/maelfabien.svg?style=social"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/maelfabien/Machine_Learning_Tutorials.svg"> <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3.svg">
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/mf_logo_short.jpg" alt="Illustration" width="50px/>
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/mf_logo_short.jpg" alt="Illustration" width="50px"/>
 
 In this repository, I'm uploading code, notebooks and notebooks from my personal blog : https://maelfabien.github.io/
 
