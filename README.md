@@ -24,6 +24,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 <a href="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/unsupervised.pdf"><img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/unsup.png?" alt="Illustration" width="220px"/></a>
 
+<br>
+ 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -59,6 +61,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Introduction to Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/TimeSeries) |
 | Key concepts of Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/TimeSeries) |
 
+<br>
+
 ## 4. Machine Learning
 
 | Article Title | Read Time | Article | Code Folder |
@@ -80,6 +84,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 | AutoML with h2o | 6mn | [here](https://maelfabien.github.io/machinelearning/AutoML/#) | --- |
 | Bayesian Hyperparameter Optimization | 7mn | [here](https://maelfabien.github.io/machinelearning/HyperOpt/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/BayesianHyperOpt) |
 
+<br>
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/tdl_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -93,6 +99,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 | XCeption Architecture | 5mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Xception) |
 | GANs on the MNIST dataset | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/GANs) |
 
+<br>
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/dv_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -101,6 +109,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/Altair) |
 | Dynamic plots with BQ-Plot | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/BQPlot) |
 
+<br>
+
 ## 7. Medium Articles
 
 1. Boosting and Adaboost clearly explained : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
@@ -108,6 +118,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 2. A guide to Face Detection in Python : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
 
 3. Markov Chains and HMMs : https://towardsdatascience.com/markov-chains-and-hmms-ceaf2c854788
+
+<br>
 
 ## 8. Data Engineering
 
