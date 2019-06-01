@@ -55,15 +55,16 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
-| The linear regression model | 10mn | [here](https://maelfabien.github.io/statistics/linreg/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
-| Multidimensional Linear Regression | 3mn | [here](https://maelfabien.github.io/statistics/linreg2/) | --- |
-| Normal Regression Model | 1mn | [here](https://maelfabien.github.io/statistics/normal/) | --- |
-| Pseudo-Least Squares | 1mn | [here](https://maelfabien.github.io/statistics/pseudols/) | --- |
-| Transformations of linear models | 1mn | [here](https://maelfabien.github.io/statistics/Special/) | --- |
-| Dealing with boolean and categorical variables | 1mn | [here](https://maelfabien.github.io/statistics/Boolean/) | --- |
+| The linear regression model (1/2) | 14mn | [here](https://maelfabien.github.io/statistics/linreg/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
+| The linear regression model (3/2) | 10mn | [here](https://maelfabien.github.io/statistics/linreg2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
 | Basics of Statistical Hypothesis Testing | 5mn | [here](https://maelfabien.github.io/statistics/Tests/) | --- |
-| Generalized Least Squares | 2mn | [here](https://maelfabien.github.io/statistics/GLS/) | --- |
+| The Logistic Regression | 2mn | [here](https://maelfabien.github.io/statistics/linreg3/) | --- |
 | Statistics in Matlab | 4mn | [here](https://maelfabien.github.io/statistics/matlab/) | --- |
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/ts_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
 | Introduction to Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/TimeSeries) |
 | Key concepts of Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/TimeSeries) |
 
