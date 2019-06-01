@@ -27,7 +27,9 @@ You would like to work on an article with me ? Or you would like me to work on a
 <a href="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/unsupervised.pdf"><img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/unsup.png?" alt="Illustration" width="220px"/></a>
 
 <br>
- 
+
+# Machine Learning
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -116,6 +118,18 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 <br>
 
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/dv_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| Introduction to Data Viz | 5mn | [here](https://maelfabien.github.io/machinelearning/Dataviz/) | --- |
+| Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/Altair) |
+| Dynamic plots with BQ-Plot | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/BQPlot) |
+
+<br>
+
+# Deep Learning
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/tdl_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -138,115 +152,107 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 <br>
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/dv_head.jpg" alt="Illustration"/>
+# Data Engineering 
 
-| Article Title | Read Time | Article | Code Folder |
-| --- | --- | --- | --- |
-| Introduction to Data Viz | 5mn | [here](https://maelfabien.github.io/machinelearning/Dataviz/) | --- |
-| Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/Altair) |
-| Dynamic plots with BQ-Plot | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/BQPlot) |
+Two general articles :
+
+1. Understanding Computer Components (6mn read)
+https://maelfabien.github.io/bigdata/comp_components/
+
+2. Useful Bash commands (1mn read) 
+https://maelfabien.github.io/bigdata/Terminal/
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/aws_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| AWS Cloud Concepts | 2mn | [here](https://maelfabien.github.io/bigdata/cloud_concept/) |
+| AWS Core Services | 1mn | [here](https://maelfabien.github.io/bigdata/core_services/) |
 
 <br>
 
-## 7. Medium Articles
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/gcp_head.jpg" alt="Illustration"/>
 
-<div id="medium-widget"></div>
-<script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-<script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@mael.fabien","postsPerLine":1,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| TPU Survival Guide on Colab | 8mn | [here](https://maelfabien.github.io/bigdata/ColabTPU/) |
+| Store files on Google Cloud and Colab | 1mn | [here](https://maelfabien.github.io/bigdata/ColabDrive/) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/elk_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| Introduction to ElasticStack | 1mn | [here](https://maelfabien.github.io/bigdata/ElasticStack/) |
+| Getting Started with ElasticSearch and Kibana | 7mn | [here](https://maelfabien.github.io/bigdata/ElasticCloud/) |
+| Install and run Kibana locally | 1mn | [here](https://maelfabien.github.io/bigdata/Elasticsearch/) |
+| Working with DevTools in ElasticSearch | 9mn | [here](https://maelfabien.github.io/bigdata/DevTools/) |
+| Working with DevTools in ElasticSearch | 9mn | [here](https://maelfabien.github.io/bigdata/DevTools/) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/neo_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| Introduction to Graph Databases | 1mn | [here](https://maelfabien.github.io/bigdata/Neo4J/) |
+| A day at Neo4J GraphTour | 7mn | [here](https://maelfabien.github.io/bigdata/Neo4J_gt/) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nosql_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| Big (Open) Data, the GDelt project | 2mn | [here](https://maelfabien.github.io/bigdata/zeppelin-GDELT/) |
+| Install Zeppelin locally | 1mn | [here](https://maelfabien.github.io/bigdata/zeppelin_local/) |
+| Run Zeppelin on AWS EMR | 4mn | [here](https://maelfabien.github.io/bigdata/zeppelin_emr/) |
+| Work with S3 buckets | 1mn | [here](https://maelfabien.github.io/bigdata/storage/) |
+| Launch and access AWS EC2 instances | 2mn | [here](https://maelfabien.github.io/bigdata/EC2/) |
+| Install Apache Cassandra on EC2 Cluster | 2mn | [here](https://maelfabien.github.io/bigdata/EC2_Cassandra/) |
+| Install Zookeeper on EC2 instances | 3mn | [here](https://maelfabien.github.io/bigdata/ZK/) |
+| Build an ETL in Scala | 3mn | [here](https://maelfabien.github.io/bigdata/Scala/) |
+| Move Scala Dataframes to Cassandra | 2mn | [here](https://maelfabien.github.io/bigdata/Scala_Cassandra/) |
+| Move Scala Dataframes to Cassandra | 2mn | [here](https://maelfabien.github.io/bigdata/Scala_Cassandra/) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/hadoop_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| Introduction to Hadoop | 4mn | [here](https://maelfabien.github.io/bigdata/hadoop/) |
+| MapReduce | 3mn | [here](https://maelfabien.github.io/bigdata/MapReduce/#) |
+| HDFS | 2mn | [here](https://maelfabien.github.io/bigdata/HDFS/#) |
+| VMs in Virtual Box | 1mn | [here](https://maelfabien.github.io/bigdata/VM/#) |
+| Hadoop with the HortonWorks Sandbox | 2mn | [here](https://maelfabien.github.io/bigdata/HortonWorks/) |
+| Load and move files to HDFS | 2mn | [here](https://maelfabien.github.io/bigdata/HDFS_2/) |
+| Launch a MapReduce Job | 2mn | [here](https://maelfabien.github.io/bigdata/MRJob/) |
+| MapReduce Jobs in Python | 3mn | [here](https://maelfabien.github.io/bigdata/MRJobP/) |
+| MapReduce Job in Python locally | 1mn | [here](https://maelfabien.github.io/bigdata/MRH/) |
+
+<br>
+
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/spark_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| Introduction to Spark | 6mn | [here](https://maelfabien.github.io/bigdata/spark1/) |
+| Install Spark-Scala and PySpark | 1mn | [here](https://maelfabien.github.io/bigdata/spark2/) |
+| Discover Spark-Scala | 2mn | [here](https://maelfabien.github.io/bigdata/spark3/#) |
+
+<br>
+
+
+# Medium Articles
 
 1. Boosting and Adaboost clearly explained : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
 
 2. A guide to Face Detection in Python : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
 
 3. Markov Chains and HMMs : https://towardsdatascience.com/markov-chains-and-hmms-ceaf2c854788
-
-<br>
-
-## 8. Data Engineering
-
-1. Understanding Computer Components (6mn read)
-https://maelfabien.github.io/bigdata/comp_components/
-
-2. AWS Cloud Concepts (2mn read)
-https://maelfabien.github.io/bigdata/cloud_concept/
-
-3. AWS Core Services (1mn read)
-https://maelfabien.github.io/bigdata/core_services/
-
-4. TPU Survival Guide on Colab (8mn read)
-https://maelfabien.github.io/bigdata/ColabTPU/
-
-5. Store files on Google Cloud and Colab (1mn read)
-https://maelfabien.github.io/bigdata/ColabDrive/
-
-6. Introduction to ElasticStack (1mn read)
-https://maelfabien.github.io/bigdata/ElasticStack/
-
-7. Getting Started with ElasticSearch and Kibana (7mn read)
-https://maelfabien.github.io/bigdata/ElasticCloud/
-
-8. Install and run Kibana locally (1mn read)
-https://maelfabien.github.io/bigdata/Elasticsearch/
-
-9. Working with DevTools in ElasticSearch (9mn read)
-https://maelfabien.github.io/bigdata/DevTools/
-
-10. Introduction to Graph Databases (1mn read)
-https://maelfabien.github.io/bigdata/Neo4J/
-
-11. A day at Neo4J GraphTour (6mn read)
-https://maelfabien.github.io/bigdata/Neo4J_gt/
-
-12. Install Zeppelin locally (1mn read)
-https://maelfabien.github.io/bigdata/zeppelin_local/
-
-13. Run Zeppelin on AWS EMR (4mn read)
-https://maelfabien.github.io/bigdata/zeppelin_emr/
-
-14. Work with S3 buckets (1mn read)
-https://maelfabien.github.io/bigdata/storage/
-
-15. Launch and access AWS EC2 instances (2mn read)
-https://maelfabien.github.io/bigdata/EC2/
-
-16. Install Apache Cassandra on EC2 Cluster (2mn read)
-https://maelfabien.github.io/bigdata/EC2_Cassandra/
-
-17. Install Zookeeper on EC2 instances (3mn read)
-https://maelfabien.github.io/bigdata/ZK/
-
-18. Big (Open) Data, the GDelt project (2mn read)
-https://maelfabien.github.io/bigdata/zeppelin-GDELT/
-
-19. Build an ETL in Scala (3mn read)
-https://maelfabien.github.io/bigdata/Scala/
-
-20. Move Scala Dataframes to Cassandra (2mn)
-https://maelfabien.github.io/bigdata/Scala_Cassandra/
-
-21. Introduction to Hadoop (4mn)
-https://maelfabien.github.io/bigdata/hadoop/#
-
-22. MapReduce (3mn)
-https://maelfabien.github.io/bigdata/MapReduce/#
-
-23. HDFS (2mn)
-https://maelfabien.github.io/bigdata/HDFS/#
-
-24. VMs in Virtual Box (1mn)
-https://maelfabien.github.io/bigdata/VM/#
-
-25. Hadoop with the HortonWorks Sandbox (1/4) (2mn)
-https://maelfabien.github.io/bigdata/HortonWorks/
-
-26. Load and move files to HDFS (2/4) (2mn)
-https://maelfabien.github.io/bigdata/HDFS_2/
-
-27. Launch a MapReduce Job (3/4) (2mn)
-https://maelfabien.github.io/bigdata/MRJob/
-
-28. MapReduce Jobs in Python (4/4) (3mn)
-https://maelfabien.github.io/bigdata/MRJobP/
 
 ####
 Stay tuned :)
