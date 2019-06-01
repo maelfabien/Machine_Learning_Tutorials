@@ -39,6 +39,32 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 # Machine Learning
 
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/s_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| The linear regression model (1/2) | 14mn | [here](https://maelfabien.github.io/statistics/linreg/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
+| The linear regression model (3/2) | 10mn | [here](https://maelfabien.github.io/statistics/linreg2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
+| Basics of Statistical Hypothesis Testing | 5mn | [here](https://maelfabien.github.io/statistics/Tests/) | --- |
+| The Logistic Regression | 2mn | [here](https://maelfabien.github.io/statistics/linreg3/) | --- |
+| Statistics in Matlab | 4mn | [here](https://maelfabien.github.io/statistics/matlab/) | --- |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/sup_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| The Basics of Machine Learning | 4mn | [here](https://maelfabien.github.io/machinelearning/ml_base/) | --- |
+| Bayes Classifier | 1mn | [here](https://maelfabien.github.io/machinelearning/bayes/) | --- |
+| Linear Discriminant Analysis | 1mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
+| Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/AdaBoost) |
+| Gradient Boosting Regression | 6mn | [here](https://maelfabien.github.io/machinelearning/GradientBoost/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GradientBoost) |
+| Gradient Boosting Classification | 3mn | [here](https://maelfabien.github.io/machinelearning/GradientBoostC/#) | --- |
+| Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/LargeScaleKernel) |
+
+<br>
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -62,38 +88,12 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 <br>
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/s_head.jpg" alt="Illustration"/>
-
-| Article Title | Read Time | Article | Code Folder |
-| --- | --- | --- | --- |
-| The linear regression model (1/2) | 14mn | [here](https://maelfabien.github.io/statistics/linreg/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
-| The linear regression model (3/2) | 10mn | [here](https://maelfabien.github.io/statistics/linreg2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
-| Basics of Statistical Hypothesis Testing | 5mn | [here](https://maelfabien.github.io/statistics/Tests/) | --- |
-| The Logistic Regression | 2mn | [here](https://maelfabien.github.io/statistics/linreg3/) | --- |
-| Statistics in Matlab | 4mn | [here](https://maelfabien.github.io/statistics/matlab/) | --- |
-
-<br>
-
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/ts_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
 | Introduction to Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/TimeSeries) |
 | Key concepts of Time Series | 4mn | [here](https://maelfabien.github.io/statistics/TimeSeries2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/TimeSeries) |
-
-<br>
-
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/sup_head.jpg" alt="Illustration"/>
-
-| Article Title | Read Time | Article | Code Folder |
-| --- | --- | --- | --- |
-| The Basics of Machine Learning | 4mn | [here](https://maelfabien.github.io/machinelearning/ml_base/) | --- |
-| Bayes Classifier | 1mn | [here](https://maelfabien.github.io/machinelearning/bayes/) | --- |
-| Linear Discriminant Analysis | 1mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
-| Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/AdaBoost) |
-| Gradient Boosting Regression | 6mn | [here](https://maelfabien.github.io/machinelearning/GradientBoost/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GradientBoost) |
-| Gradient Boosting Classification | 3mn | [here](https://maelfabien.github.io/machinelearning/GradientBoostC/#) | --- |
-| Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/LargeScaleKernel) |
 
 <br>
 
@@ -173,6 +173,50 @@ https://maelfabien.github.io/bigdata/Terminal/
 
 <br>
 
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/hadoop_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| Introduction to Hadoop | 4mn | [here](https://maelfabien.github.io/bigdata/hadoop/) |
+| MapReduce | 3mn | [here](https://maelfabien.github.io/bigdata/MapReduce/#) |
+| HDFS | 2mn | [here](https://maelfabien.github.io/bigdata/HDFS/#) |
+| VMs in Virtual Box | 1mn | [here](https://maelfabien.github.io/bigdata/VM/#) |
+| Hadoop with the HortonWorks Sandbox | 2mn | [here](https://maelfabien.github.io/bigdata/HortonWorks/) |
+| Load and move files to HDFS | 2mn | [here](https://maelfabien.github.io/bigdata/HDFS_2/) |
+| Launch a MapReduce Job | 2mn | [here](https://maelfabien.github.io/bigdata/MRJob/) |
+| MapReduce Jobs in Python | 3mn | [here](https://maelfabien.github.io/bigdata/MRJobP/) |
+| MapReduce Job in Python locally | 1mn | [here](https://maelfabien.github.io/bigdata/MRH/) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/spark_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| Introduction to Spark | 6mn | [here](https://maelfabien.github.io/bigdata/spark1/) |
+| Install Spark-Scala and PySpark | 1mn | [here](https://maelfabien.github.io/bigdata/spark2/) |
+| Discover Spark-Scala | 2mn | [here](https://maelfabien.github.io/bigdata/spark3/#) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nosql_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article |
+| --- | --- | --- |
+| Big (Open) Data, the GDelt project | 2mn | [here](https://maelfabien.github.io/bigdata/zeppelin-GDELT/) |
+| Install Zeppelin locally | 1mn | [here](https://maelfabien.github.io/bigdata/zeppelin_local/) |
+| Run Zeppelin on AWS EMR | 4mn | [here](https://maelfabien.github.io/bigdata/zeppelin_emr/) |
+| Work with S3 buckets | 1mn | [here](https://maelfabien.github.io/bigdata/storage/) |
+| Launch and access AWS EC2 instances | 2mn | [here](https://maelfabien.github.io/bigdata/EC2/) |
+| Install Apache Cassandra on EC2 Cluster | 2mn | [here](https://maelfabien.github.io/bigdata/EC2_Cassandra/) |
+| Install Zookeeper on EC2 instances | 3mn | [here](https://maelfabien.github.io/bigdata/ZK/) |
+| Build an ETL in Scala | 3mn | [here](https://maelfabien.github.io/bigdata/Scala/) |
+| Move Scala Dataframes to Cassandra | 2mn | [here](https://maelfabien.github.io/bigdata/Scala_Cassandra/) |
+| Move Scala Dataframes to Cassandra | 2mn | [here](https://maelfabien.github.io/bigdata/Scala_Cassandra/) |
+
+<br>
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/aws_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article |
@@ -209,50 +253,6 @@ https://maelfabien.github.io/bigdata/Terminal/
 | --- | --- | --- |
 | Introduction to Graph Databases | 1mn | [here](https://maelfabien.github.io/bigdata/Neo4J/) |
 | A day at Neo4J GraphTour | 7mn | [here](https://maelfabien.github.io/bigdata/Neo4J_gt/) |
-
-<br>
-
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nosql_head.jpg" alt="Illustration"/>
-
-| Article Title | Read Time | Article |
-| --- | --- | --- |
-| Big (Open) Data, the GDelt project | 2mn | [here](https://maelfabien.github.io/bigdata/zeppelin-GDELT/) |
-| Install Zeppelin locally | 1mn | [here](https://maelfabien.github.io/bigdata/zeppelin_local/) |
-| Run Zeppelin on AWS EMR | 4mn | [here](https://maelfabien.github.io/bigdata/zeppelin_emr/) |
-| Work with S3 buckets | 1mn | [here](https://maelfabien.github.io/bigdata/storage/) |
-| Launch and access AWS EC2 instances | 2mn | [here](https://maelfabien.github.io/bigdata/EC2/) |
-| Install Apache Cassandra on EC2 Cluster | 2mn | [here](https://maelfabien.github.io/bigdata/EC2_Cassandra/) |
-| Install Zookeeper on EC2 instances | 3mn | [here](https://maelfabien.github.io/bigdata/ZK/) |
-| Build an ETL in Scala | 3mn | [here](https://maelfabien.github.io/bigdata/Scala/) |
-| Move Scala Dataframes to Cassandra | 2mn | [here](https://maelfabien.github.io/bigdata/Scala_Cassandra/) |
-| Move Scala Dataframes to Cassandra | 2mn | [here](https://maelfabien.github.io/bigdata/Scala_Cassandra/) |
-
-<br>
-
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/hadoop_head.jpg" alt="Illustration"/>
-
-| Article Title | Read Time | Article |
-| --- | --- | --- |
-| Introduction to Hadoop | 4mn | [here](https://maelfabien.github.io/bigdata/hadoop/) |
-| MapReduce | 3mn | [here](https://maelfabien.github.io/bigdata/MapReduce/#) |
-| HDFS | 2mn | [here](https://maelfabien.github.io/bigdata/HDFS/#) |
-| VMs in Virtual Box | 1mn | [here](https://maelfabien.github.io/bigdata/VM/#) |
-| Hadoop with the HortonWorks Sandbox | 2mn | [here](https://maelfabien.github.io/bigdata/HortonWorks/) |
-| Load and move files to HDFS | 2mn | [here](https://maelfabien.github.io/bigdata/HDFS_2/) |
-| Launch a MapReduce Job | 2mn | [here](https://maelfabien.github.io/bigdata/MRJob/) |
-| MapReduce Jobs in Python | 3mn | [here](https://maelfabien.github.io/bigdata/MRJobP/) |
-| MapReduce Job in Python locally | 1mn | [here](https://maelfabien.github.io/bigdata/MRH/) |
-
-<br>
-
-
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/spark_head.jpg" alt="Illustration"/>
-
-| Article Title | Read Time | Article |
-| --- | --- | --- |
-| Introduction to Spark | 6mn | [here](https://maelfabien.github.io/bigdata/spark1/) |
-| Install Spark-Scala and PySpark | 1mn | [here](https://maelfabien.github.io/bigdata/spark2/) |
-| Discover Spark-Scala | 2mn | [here](https://maelfabien.github.io/bigdata/spark3/#) |
 
 <br>
 
