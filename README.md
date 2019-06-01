@@ -46,7 +46,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | The linear regression model (1/2) | 14mn | [here](https://maelfabien.github.io/statistics/linreg/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
 | The linear regression model (3/2) | 10mn | [here](https://maelfabien.github.io/statistics/linreg2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LinearRegression) |
 | Basics of Statistical Hypothesis Testing | 5mn | [here](https://maelfabien.github.io/statistics/Tests/) | --- |
-| The Logistic Regression | 2mn | [here](https://maelfabien.github.io/statistics/linreg3/) | --- |
+| The Logistic Regression | 4mn | [here](https://maelfabien.github.io/statistics/linreg3/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/2-Statistics/LogisticRegression) |
 | Statistics in Matlab | 4mn | [here](https://maelfabien.github.io/statistics/matlab/) | --- |
 
 <br>
