@@ -61,6 +61,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 | The Logistic Regression | 2mn | [here](https://maelfabien.github.io/statistics/linreg3/) | --- |
 | Statistics in Matlab | 4mn | [here](https://maelfabien.github.io/statistics/matlab/) | --- |
 
+<br>
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/ts_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -70,24 +72,45 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 <br>
 
-## 4. Machine Learning
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/sup_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
 | The Basics of Machine Learning | 4mn | [here](https://maelfabien.github.io/machinelearning/ml_base/) | --- |
 | Bayes Classifier | 1mn | [here](https://maelfabien.github.io/machinelearning/bayes/) | --- |
-| Logistic Regression | 3mn | [here](https://maelfabien.github.io/statistics/linreg3/) | --- |
 | Linear Discriminant Analysis | 1mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
 | Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/AdaBoost) |
 | Gradient Boosting Regression | 6mn | [here](https://maelfabien.github.io/machinelearning/GradientBoost/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GradientBoost) |
 | Gradient Boosting Classification | 3mn | [here](https://maelfabien.github.io/machinelearning/GradientBoostC/#) | --- |
 | Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/LargeScaleKernel) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/mc_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
 | Markov Chains | 9mn | [here](https://maelfabien.github.io/machinelearning/HMM_1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/HMM) |
 | Hidden Markov Models | 6mn | [here](https://maelfabien.github.io/machinelearning/HMM_2/) | --- |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/graph_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
 | Introduction to Graph Mining | 5mn | [here](https://maelfabien.github.io/machinelearning/graph_1/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
 | Graph Analysis | 4mn | [here](https://maelfabien.github.io/machinelearning/graph_2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
 | Graph Algorithms | 11mn | [here](https://maelfabien.github.io/machinelearning/graph_3/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
 | Graph Learning | 8mn | [here](https://maelfabien.github.io/machinelearning/graph_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GraphMining) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/opt_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| GridSearch vs. Randomized Search | 6mn | [here](https://maelfabien.github.io/machinelearning/GridRand/) | --- |
 | AutoML with h2o | 6mn | [here](https://maelfabien.github.io/machinelearning/AutoML/#) | --- |
 | Bayesian Hyperparameter Optimization | 7mn | [here](https://maelfabien.github.io/machinelearning/HyperOpt/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/BayesianHyperOpt) |
 
@@ -101,6 +124,13 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Multilayer Perceptron (MLP) | 5mn | [here](https://maelfabien.github.io/deeplearning/mlp/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/MultilayerPerceptron) |
 | Regularization Techniques | 1mn | [here](https://maelfabien.github.io/deeplearning/regu/) | --- |
 | Convolutional Neural Network | 2mn | [here](https://maelfabien.github.io/deeplearning/cnn/#) | --- |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/arch_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
 | Inception Architecture in Keras | 2mn | [here](https://maelfabien.github.io/deeplearning/inception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Inception) |
 | Build an autoencoder using Keras functional API | 5mn | [here](https://maelfabien.github.io/deeplearning/autoencoder/) | --- |
 | XCeption Architecture | 5mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Xception) |
