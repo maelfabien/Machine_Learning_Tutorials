@@ -29,6 +29,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 ## 1. Computer Vision
 
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.png" alt="Illustration"/>
+
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
 | A full guide to Face, Mouth and Eyes Real Time detection | 16mn | [here](https://maelfabien.github.io/tutorials/face-detection/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/01-FaceDetection) |
