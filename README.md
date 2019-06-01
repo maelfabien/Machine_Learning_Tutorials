@@ -39,6 +39,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Advanced Filtering and Image Transformation | 5mn | [here](https://maelfabien.github.io/computervision/cv_3/#) | --- |
 | Image Features, Panorama, Matching | 5mn | [here](https://maelfabien.github.io/computervision/cv_4/#) | --- |
 
+<br>
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nlp_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -46,6 +48,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Text Pre-Processing  | 7mn | [here](https://maelfabien.github.io/machinelearning/NLP_1/) | --- |
 | Text Embedding with BoW and Tf-Idf  | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
 | Text Embedding with Word2Vec | 3mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
+
+<br>
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/s_head.jpg" alt="Illustration"/>
 
