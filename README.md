@@ -2,18 +2,15 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/maelfabien.svg?style=social"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/maelfabien/Machine_Learning_Tutorials.svg"> <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3.svg">
 
-In this repository, I'll upload machine learning tutorials (with code) for most common algorithms. These tutorials might include an explanation of the algorithm, an implementation of the algorithm (from scratch or using a library), as well as an example on a publically available data set.
+In this repository, I'm uploading code, notebooks and notebooks from my personal blog : https://maelfabien.github.io/
 
 First of all, if you're not familiar with the key concepts of machine learrning, make sure to check this first article :
 https://maelfabien.github.io/machinelearning/ml_base/
 
-All the articles and codes included in this repository were originally posted on my personal blog : 
-https://maelfabien.github.io/
-
 The repository is organized the following way :
 - articles and tutorials are posted by category
 - there is a link to the article in question with the read time specified
-- artiles in Bold have a corresponding folder in this repo
+- the is a link to the code folder for each article
 
 You would like to work on an article with me ? Or you would like me to work on a specific topic ? Feel free to reach out ! (mael.fabien@gmail.com)
 
@@ -27,8 +24,6 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 <a href="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/unsupervised.pdf"><img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/unsup.png?" alt="Illustration" width="220px"/></a>
 
-## 1. Computer Vision
-
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -40,7 +35,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Advanced Filtering and Image Transformation | 5mn | [here](https://maelfabien.github.io/computervision/cv_3/#) | --- |
 | Image Features, Panorama, Matching | 5mn | [here](https://maelfabien.github.io/computervision/cv_4/#) | --- |
 
-## 2. Natural Language Processing
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nlp_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
@@ -48,7 +43,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Text Embedding with BoW and Tf-Idf  | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
 | Text Embedding with Word2Vec | 3mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
 
-## 3. Statistics
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/s_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
@@ -85,7 +80,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | AutoML with h2o | 6mn | [here](https://maelfabien.github.io/machinelearning/AutoML/#) | --- |
 | Bayesian Hyperparameter Optimization | 7mn | [here](https://maelfabien.github.io/machinelearning/HyperOpt/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/BayesianHyperOpt) |
 
-## 5. Deep Learning
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/tdl_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
@@ -98,7 +93,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | XCeption Architecture | 5mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Xception) |
 | GANs on the MNIST dataset | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/GANs) |
 
-## 6. Data Visualization
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/dv_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
