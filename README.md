@@ -6,6 +6,15 @@
 
 In this repository, I'm uploading code, notebooks and notebooks from my personal blog : https://maelfabien.github.io/. Don't hesitate to ⭐ the repo if you enjoy my work ! New articles are being published weekly !
 
+## Table of Content :
+- [I. CheatSheets](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning-cheatsheet)
+- [II. Machine Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning)
+- [III. Deep Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#deep-learning)
+- [IV. Data Engineering](https://github.com/maelfabien/Machine_Learning_Tutorials#data-engineering)
+- [V. Medium Articles](https://github.com/maelfabien/Machine_Learning_Tutorials#medium-articles)
+
+<br>
+
 First of all, if you're not familiar with the key concepts of machine learrning, make sure to check this first article :
 https://maelfabien.github.io/machinelearning/ml_base/
 
@@ -16,7 +25,7 @@ The repository is organized the following way :
 
 You would like to work on an article with me ? Or you would like me to work on a specific topic ? Feel free to reach out ! (mael.fabien@gmail.com)
 
-## Machine Learning Cheatsheet :
+# Machine Learning Cheatsheet :
 
 1. Supervised Learning
 
@@ -161,6 +170,8 @@ https://maelfabien.github.io/bigdata/comp_components/
 
 2. Useful Bash commands (1mn read) 
 https://maelfabien.github.io/bigdata/Terminal/
+
+<br>
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/aws_head.jpg" alt="Illustration"/>
 
