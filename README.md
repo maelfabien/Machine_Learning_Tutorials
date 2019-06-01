@@ -127,7 +127,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 <br>
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/arch_head.jpg" alt="Illustration"/>
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/arc_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
@@ -149,6 +149,10 @@ You would like to work on an article with me ? Or you would like me to work on a
 <br>
 
 ## 7. Medium Articles
+
+<div id="medium-widget"></div>
+<script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+<script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@mael.fabien","postsPerLine":1,"limit":10,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
 
 1. Boosting and Adaboost clearly explained : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
 
