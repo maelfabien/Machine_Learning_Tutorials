@@ -131,9 +131,18 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
-| Introduction to Data Viz | 5mn | [here](https://maelfabien.github.io/machinelearning/Dataviz/) | --- |
+| Introduction to Data Viz | 12mn | [here](https://maelfabien.github.io/machinelearning/Dataviz/) | --- |
 | Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/Altair) |
 | Dynamic plots with BQ-Plot | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/BQPlot) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/on_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| Introduction to Online Learning | 5mn | [here](https://maelfabien.github.io/machinelearning/Online/) | --- |
+| Linear Classification | 1mn | [here](https://maelfabien.github.io/machinelearning/Online2/) | --- |
 
 <br>
 
