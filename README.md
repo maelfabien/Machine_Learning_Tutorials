@@ -29,7 +29,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 ## 1. Computer Vision
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.png" alt="Illustration"/>
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
