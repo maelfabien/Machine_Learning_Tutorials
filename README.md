@@ -4,7 +4,7 @@
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/mf_logo_short.jpg" alt="Illustration" width="50px"/>
 
-In this repository, I'm uploading code, notebooks and notebooks from my personal blog : https://maelfabien.github.io/
+In this repository, I'm uploading code, notebooks and notebooks from my personal blog : https://maelfabien.github.io/. Don't hesitate to ⭐ the repo if you enjoy my work ! New articles are being published weekly !
 
 First of all, if you're not familiar with the key concepts of machine learrning, make sure to check this first article :
 https://maelfabien.github.io/machinelearning/ml_base/
@@ -214,4 +214,4 @@ https://maelfabien.github.io/bigdata/MRJob/
 https://maelfabien.github.io/bigdata/MRJobP/
 
 ####
-Stay tuned, new articles coming weekly :)
+Stay tuned :)
