@@ -274,5 +274,7 @@ https://maelfabien.github.io/bigdata/Terminal/
 
 3. Markov Chains and HMMs : https://towardsdatascience.com/markov-chains-and-hmms-ceaf2c854788
 
+4. Introduction to Graphs (Part 1): https://towardsdatascience.com/introduction-to-graphs-part-1-2de6cda8c5a5
+
 ####
 Stay tuned :)
