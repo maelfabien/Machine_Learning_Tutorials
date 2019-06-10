@@ -82,9 +82,10 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
-| Text Pre-Processing  | 7mn | [here](https://maelfabien.github.io/machinelearning/NLP_1/) | --- |
-| Text Embedding with BoW and Tf-Idf  | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
-| Text Embedding with Word2Vec | 3mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
+| Introduction to NLP | 1mn | [here](https://maelfabien.github.io/machinelearning/NLP_0/#) | --- |
+| Text Pre-Processing | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_1/) | --- |
+| Text Embedding with BoW and Tf-Idf  | 5mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
+| Text Embedding with Word2Vec | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
 
 <br>
 
@@ -270,11 +271,13 @@ https://maelfabien.github.io/bigdata/Terminal/
 
 1. Boosting and Adaboost clearly explained : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
 
-2. A guide to Face Detection in Python : https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
+2. A guide to Face Detection in Python: https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1
 
-3. Markov Chains and HMMs : https://towardsdatascience.com/markov-chains-and-hmms-ceaf2c854788
+3. Markov Chains and HMMs: https://towardsdatascience.com/markov-chains-and-hmms-ceaf2c854788
 
 4. Introduction to Graphs (Part 1): https://towardsdatascience.com/introduction-to-graphs-part-1-2de6cda8c5a5
+
+5. Graph Algorithms (Part 2): https://towardsdatascience.com/graph-algorithms-part-2-dce0b2734a1d
 
 ####
 Stay tuned :)
