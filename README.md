@@ -57,7 +57,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | --- | --- | --- | --- |
 | The Basics of Machine Learning | 4mn | [here](https://maelfabien.github.io/machinelearning/ml_base/) | --- |
 | Bayes Classifier | 1mn | [here](https://maelfabien.github.io/machinelearning/bayes/) | --- |
-| Linear Discriminant Analysis | 1mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
+| Linear Discriminant Analysis | 3mn | [here](https://maelfabien.github.io/machinelearning/LDA/) | --- |
 | Adaboost and Boosting | 7mn | [here](https://maelfabien.github.io/machinelearning/adaboost/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/AdaBoost) |
 | Gradient Boosting Regression | 6mn | [here](https://maelfabien.github.io/machinelearning/GradientBoost/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GradientBoost) |
 | Gradient Boosting Classification | 3mn | [here](https://maelfabien.github.io/machinelearning/GradientBoostC/#) | --- |
