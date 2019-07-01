@@ -136,6 +136,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/Altair) |
 | Dynamic plots with BQ-Plot | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/BQPlot) |
 | An interactive tool with Altair | --- | [here](https://maelfabien.github.io/tsne) | --- |
+| An interactive tool with D3.js | --- | [here](https://maelfabien.github.io/viz) | --- |
 
 <br>
 
