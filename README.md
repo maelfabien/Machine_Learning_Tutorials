@@ -125,7 +125,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | GridSearch vs. Randomized Search | 6mn | [here](https://maelfabien.github.io/machinelearning/GridRand/) | --- |
 | AutoML with h2o | 6mn | [here](https://maelfabien.github.io/machinelearning/AutoML/#) | --- |
 | Bayesian Hyperparameter Optimization | 7mn | [here](https://maelfabien.github.io/machinelearning/HyperOpt/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/BayesianHyperOpt) |
-
+| Machine Learning Explainability | 12mn | [here](https://maelfabien.github.io/machinelearning/Explainability/#) | --- |
 <br>
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/dv_head.jpg" alt="Illustration"/>
@@ -135,6 +135,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Introduction to Data Viz | 12mn | [here](https://maelfabien.github.io/machinelearning/Dataviz/) | --- |
 | Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/Altair) |
 | Dynamic plots with BQ-Plot | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/BQPlot) |
+| An interactive tool with Altair | --- | [here](https://maelfabien.github.io/tsne) | --- |
 
 <br>
 
