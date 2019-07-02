@@ -122,7 +122,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
-| GridSearch vs. Randomized Search | 6mn | [here](https://maelfabien.github.io/machinelearning/GridRand/) | --- |
+| GridSearch vs. Randomized Search | 2mn | [here](https://maelfabien.github.io/machinelearning/GridRand/) | --- |
 | AutoML with h2o | 6mn | [here](https://maelfabien.github.io/machinelearning/AutoML/#) | --- |
 | Bayesian Hyperparameter Optimization | 7mn | [here](https://maelfabien.github.io/machinelearning/HyperOpt/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/BayesianHyperOpt) |
 | Machine Learning Explainability | 12mn | [here](https://maelfabien.github.io/machinelearning/Explainability/#) | --- |
