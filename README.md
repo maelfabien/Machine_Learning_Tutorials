@@ -155,7 +155,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
-| The Rosenbaltt's Perceptron | 3mn | [here](https://maelfabien.github.io/deeplearning/Perceptron/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Perceptron) |
+| The Rosenbaltt's Perceptron | 8mn | [here](https://maelfabien.github.io/deeplearning/Perceptron/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Perceptron) |
 | Multilayer Perceptron (MLP) | 5mn | [here](https://maelfabien.github.io/deeplearning/mlp/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/MultilayerPerceptron) |
 | Prevent Overfitting of Neural Netorks | 6mn | [here](https://maelfabien.github.io/deeplearning/regu/) | --- |
 | Convolutional Neural Network | 6mn | [here](https://maelfabien.github.io/deeplearning/cnn/#) | --- |
