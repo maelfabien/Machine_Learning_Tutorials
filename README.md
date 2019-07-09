@@ -133,6 +133,7 @@ You would like to work on an article with me ? Or you would like me to work on a
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
 | Introduction to Data Viz | 12mn | [here](https://maelfabien.github.io/machinelearning/Dataviz/) | --- |
+| Visual Recommendation System | 4mn | [here](https://maelfabien.github.io/machinelearning/VizReco/#) | --- |
 | Interactive graphs in Python with Altair | 5mn | [here](https://maelfabien.github.io/machinelearning/Altair/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/Altair) |
 | Dynamic plots with BQ-Plot | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/6-DataViz/BQPlot) |
 | An interactive tool with Altair | --- | [here](https://maelfabien.github.io/tsne) | --- |
