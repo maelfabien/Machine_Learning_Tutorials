@@ -272,6 +272,15 @@ https://maelfabien.github.io/bigdata/Terminal/
 <br>
 
 
+# Written for other blogs
+
+1. [Who's the painter? - For explorium.ai](https://www.explorium.ai/blog/whos-the-painter/) : An illustration of how data enrichment and feature engineering can improve a model.
+
+2. [Machine Learning Interpretability and Explainability (1/2) - For explorium.ai](https://www.explorium.ai/blog/interpretability-and-explainability-part-1/) : An introduction to interpretable models with code and examples.
+
+3. [A guide to Face Detection - For digitalminds.io](https://www.digitalminds.io/blog/a_guide_to_face_detection_in_python) : An overview of the different techniques face Face Detection in Python (with code).
+
+
 # Medium Articles
 
 1. Boosting and Adaboost clearly explained : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
