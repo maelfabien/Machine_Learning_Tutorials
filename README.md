@@ -279,7 +279,9 @@ https://maelfabien.github.io/bigdata/Terminal/
 
 2. [Machine Learning Interpretability and Explainability (1/2) - For explorium.ai](https://www.explorium.ai/blog/interpretability-and-explainability-part-1/) : An introduction to interpretable models with code and examples.
 
-3. [A guide to Face Detection - For digitalminds.io](https://www.digitalminds.io/blog/a_guide_to_face_detection_in_python) : An overview of the different techniques face Face Detection in Python (with code).
+3. [Machine Learning Interpretability and Explainability (2/2) - For explorium.ai](https://www.explorium.ai/blog/interpretability-and-explainability-part-2/) : An introduction to explainability in Machine Learning with code and examples.
+
+4. [A guide to Face Detection - For digitalminds.io](https://www.digitalminds.io/blog/a_guide_to_face_detection_in_python) : An overview of the different techniques face Face Detection in Python (with code).
 
 
 # Medium Articles
