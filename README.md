@@ -31,6 +31,8 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 # Machine Learning Cheatsheet :
 
+For the moment, these cheat sheets are written manually. I'd like to create a visual content later that would both dive in the maths and illustrate clearly each algorithm.
+
 1. Supervised Learning
 
 <a href="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/supervised.pdf"><img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/sup.png?" alt="Illustration" width="220px"/></a>
