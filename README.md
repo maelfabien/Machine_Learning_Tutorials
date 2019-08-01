@@ -7,12 +7,13 @@
 In this repository, I'm uploading code, notebooks and notebooks from my personal blog : https://maelfabien.github.io/. Don't hesitate to ⭐ the repo if you enjoy my work ! New articles are being published weekly !
 
 ## Table of Content :
-- [I. CheatSheets](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning-cheatsheet)
-- [II. Machine Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning)
-- [III. Deep Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#deep-learning)
-- [IV. Data Engineering](https://github.com/maelfabien/Machine_Learning_Tutorials#data-engineering)
-- [V. Written for other blogs](https://github.com/maelfabien/Machine_Learning_Tutorials#written-for-other-blogs)
-- [VI. Medium Articles](https://github.com/maelfabien/Machine_Learning_Tutorials#medium-articles)
+- [CheatSheets](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning-cheatsheet)
+- [Latest Articles](https://github.com/maelfabien/Machine_Learning_Tutorials/#latest-articles)
+- [Machine Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning)
+- [Deep Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#deep-learning)
+- [Data Engineering](https://github.com/maelfabien/Machine_Learning_Tutorials#data-engineering)
+- [Written for other blogs](https://github.com/maelfabien/Machine_Learning_Tutorials#written-for-other-blogs)
+- [Medium Articles](https://github.com/maelfabien/Machine_Learning_Tutorials#medium-articles)
 
 <br>
 
@@ -268,6 +269,11 @@ https://maelfabien.github.io/bigdata/Terminal/
 | --- | --- | --- |
 | TPU Survival Guide on Colab | 8mn | [here](https://maelfabien.github.io/bigdata/ColabTPU/) |
 | Store files on Google Cloud and Colab | 1mn | [here](https://maelfabien.github.io/bigdata/ColabDrive/) |
+| TPU Survival Guide on Colab | 8mn | [here](https://maelfabien.github.io/bigdata/ColabTPU/) |
+| CGP Certif. Week 1 Module 1 | 6mn | [here](https://maelfabien.github.io/bigdata/gcps_1/) |
+| Lab - Instance VM + Cloud Storage| 3mn | [here](https://maelfabien.github.io/bigdata/gcps-2/) |
+| Lab - BigQuery Public Datasets| 1mn | [here](https://maelfabien.github.io/bigdata/gcps-3/) |
+| GCP Certif. Week 1 Module 2 | 4mn | [here](https://maelfabien.github.io/bigdata/gcps_4/) |
 
 <br>
 
