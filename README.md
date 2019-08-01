@@ -38,6 +38,26 @@ You would like to work on an article with me ? Or you would like me to work on a
 
 <br>
 
+# Latest articles
+
+[Automated Graphs with Visual Recommendation Systems](https://maelfabien.github.io/machinelearning/VizReco/) : Visualization is a great way to enrich data exploration and analysis. Visual Recommendation systems aim to suggest automatically visualizations of a dataset.
+
+[Machine Learning Explainability](https://maelfabien.github.io/machinelearning/Explainability/) : In this series, I will summarize the course "Machine Learning Explaibnability" from Kaggle Learn. The full course is available [here](https://www.kaggle.com/learn/machine-learning-explainability). We'll cover permutation importance, partial dependence plots and SHAP Values.
+
+[Who's the painter? - For explorium.ai](https://www.explorium.ai/blog/whos-the-painter/) : An illustration of how data enrichment and feature engineering can improve a model.
+
+[Machine Learning Interpretability and Explainability (1/2) - For explorium.ai](https://www.explorium.ai/blog/interpretability-and-explainability-part-1/) : An introduction to interpretable models with code and examples.
+
+[Machine Learning Interpretability and Explainability (2/2) - For explorium.ai](https://www.explorium.ai/blog/interpretability-and-explainability-part-2/) : An introduction to explainability of black-box ML models.
+
+[GridSearch vs. RandomizedSearch](https://maelfabien.github.io/machinelearning/GridRand/) : When it comes to parameter selection, you usually encounter 2 main solutions. GridSearch and RandomizedSearch. What is the main difference between these 2 techniques ? What are the pros and cons of each technique ?
+
+[Graph Embedding](https://maelfabien.github.io/machinelearning/graph_5/) : A practical introduction to Graph Embedding with Node2Vec and Graph2Vec.
+
+[Build a language recognition app from scratch](https://maelfabien.github.io/machinelearning/HMM_3/) : HMMs and Viterbi decoding algorithm can be used to recognize the language of a text. Let's implement this from scratch !
+
+<center><a href="https://maelfabien.github.io/year-archive/#">See More</a></center>
+
 # Machine Learning
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/s_head.jpg" alt="Illustration"/>
