@@ -11,7 +11,8 @@ In this repository, I'm uploading code, notebooks and notebooks from my personal
 - [II. Machine Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning)
 - [III. Deep Learning](https://github.com/maelfabien/Machine_Learning_Tutorials#deep-learning)
 - [IV. Data Engineering](https://github.com/maelfabien/Machine_Learning_Tutorials#data-engineering)
-- [V. Medium Articles](https://github.com/maelfabien/Machine_Learning_Tutorials#medium-articles)
+- [V. Written for other blogs](https://github.com/maelfabien/Machine_Learning_Tutorials#written-for-other-blogs)
+- [VI. Medium Articles](https://github.com/maelfabien/Machine_Learning_Tutorials#medium-articles)
 
 <br>
 
