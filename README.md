@@ -2,6 +2,21 @@
 
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/maelfabien/Machine_Learning_Tutorials.svg?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/maelfabien/Machine_Learning_Tutorials.svg?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/maelfabien/Machine_Learning_Tutorials.svg?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/maelfabien.svg?style=social"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/maelfabien/Machine_Learning_Tutorials.svg"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/maelfabien/Machine_Learning_Tutorials.svg"> <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3.svg">
 
+
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+
+<div id="mc_embed_signup" style="background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;">
+<form action="https://gmail.us3.list-manage.com/subscribe/post?u=c76a8e2ec2bd989affb9a074f&amp;id=4646542adb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll">
+<label for="mce-EMAIL">Join the newsletter </label>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c76a8e2ec2bd989affb9a074f_4646542adb" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
+</form>
+</div>
+
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/mf_logo_short.jpg" alt="Illustration" width="50px"/>
 
 In this repository, I'm uploading code, notebooks and notebooks from my personal blog : https://maelfabien.github.io/. Don't hesitate to ⭐ the repo if you enjoy my work ! New articles are being published weekly !
