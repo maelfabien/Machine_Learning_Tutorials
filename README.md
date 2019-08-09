@@ -274,10 +274,13 @@ https://maelfabien.github.io/bigdata/Terminal/
 | TPU Survival Guide on Colab | 8mn | [here](https://maelfabien.github.io/bigdata/ColabTPU/) |
 | Store files on Google Cloud and Colab | 1mn | [here](https://maelfabien.github.io/bigdata/ColabDrive/) |
 | TPU Survival Guide on Colab | 8mn | [here](https://maelfabien.github.io/bigdata/ColabTPU/) |
-| CGP Certif. Week 1 Module 1 | 6mn | [here](https://maelfabien.github.io/bigdata/gcps_1/) |
+| Introduction to GCP (Week 1 Module 1) | 6mn | [here](https://maelfabien.github.io/bigdata/gcps_1/) |
 | Lab - Instance VM + Cloud Storage| 3mn | [here](https://maelfabien.github.io/bigdata/gcps-2/) |
 | Lab - BigQuery Public Datasets| 1mn | [here](https://maelfabien.github.io/bigdata/gcps-3/) |
-| GCP Certif. Week 1 Module 2 | 4mn | [here](https://maelfabien.github.io/bigdata/gcps_4/) |
+| Introduction to Recommendation Systems (Week 1 Module 2)  | 4mn | [here](https://maelfabien.github.io/bigdata/gcps_4/) |
+| Run Spark jobs on Cloud DataProc (Week 1 Module 2) | 2mn | [here](https://maelfabien.github.io/bigdata/gcps_5/) |
+| Lab - Recommend products using Cloud SQL and SparkML | 6mn | [here](https://maelfabien.github.io/bigdata/gcps_6/) |
+| Run ML models in SQL with BigQuery ML (Week 1 Module 3) | 6mn | [here](https://maelfabien.github.io/bigdata/gcps_7/) |
 
 <br>
 
