@@ -187,6 +187,7 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 | The Rosenbaltt's Perceptron | 8mn | [here](https://maelfabien.github.io/deeplearning/Perceptron/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Perceptron) |
 | Multilayer Perceptron (MLP) | 5mn | [here](https://maelfabien.github.io/deeplearning/mlp/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/MultilayerPerceptron) |
 | Prevent Overfitting of Neural Netorks | 6mn | [here](https://maelfabien.github.io/deeplearning/regu/) | --- |
+| Full introduction to Neural Nets | 6mn | [here](https://maelfabien.github.io/deeplearning/intro/) | --- |
 | Convolutional Neural Network | 6mn | [here](https://maelfabien.github.io/deeplearning/cnn/#) | --- |
 
 <br>
