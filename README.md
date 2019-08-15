@@ -45,7 +45,9 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 
 # Latest articles
 
-[Automated Graphs with Visual Recommendation Systems](https://maelfabien.github.io/machinelearning/VizReco/) : Visualization is a great way to enrich data exploration and analysis. Visual Recommendation systems aim to suggest automatically visualizations of a dataset.
+[How do Neural Networks learn?](https://maelfabien.github.io/deeplearning/feed/) : Dive into feedforward process and back-propagation.
+
+[Activation functions in DL](https://maelfabien.github.io/deeplearning/act/) : An overview of the different activation functions in Deep Learning, how to implement them in Python, their advantages and disadvantages.
 
 [Machine Learning Explainability](https://maelfabien.github.io/machinelearning/Explainability/) : In this series, I will summarize the course "Machine Learning Explaibnability" from Kaggle Learn. The full course is available [here](https://www.kaggle.com/learn/machine-learning-explainability). We'll cover permutation importance, partial dependence plots and SHAP Values.
 
@@ -189,6 +191,8 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 | Prevent Overfitting of Neural Netorks | 6mn | [here](https://maelfabien.github.io/deeplearning/regu/) | --- |
 | Full introduction to Neural Nets | 6mn | [here](https://maelfabien.github.io/deeplearning/intro/) | --- |
 | Convolutional Neural Network | 6mn | [here](https://maelfabien.github.io/deeplearning/cnn/#) | --- |
+| How do Neural Networks learn? | 3mn | [here](https://maelfabien.github.io/deeplearning/feed/) | --- |
+| Activation functions in DL | 3mn | [here](https://maelfabien.github.io/deeplearning/act/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Activations) |
 
 <br>
 
