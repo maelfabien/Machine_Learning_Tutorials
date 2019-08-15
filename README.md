@@ -90,6 +90,7 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 | Gradient Boosting Regression | 6mn | [here](https://maelfabien.github.io/machinelearning/GradientBoost/#) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/GradientBoost) |
 | Gradient Boosting Classification | 3mn | [here](https://maelfabien.github.io/machinelearning/GradientBoostC/#) | --- |
 | Large Scale Kernel Methods for SVM | 9mn | [here](https://maelfabien.github.io/machinelearning/largescale/#svm-classifier) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/3-MachineLearning/LargeScaleKernel) |
+| Anomaly Detection | 3mn | [here](https://maelfabien.github.io/machinelearning/anomaly/) | --- |
 
 <br>
 
@@ -216,6 +217,9 @@ https://maelfabien.github.io/bigdata/comp_components/
 
 2. Useful Bash commands (1mn read) 
 https://maelfabien.github.io/bigdata/Terminal/
+
+3. Making your code production ready (1mn read)
+https://maelfabien.github.io/bigdata/Code/
 
 <br>
 
