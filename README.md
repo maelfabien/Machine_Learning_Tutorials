@@ -4,7 +4,7 @@
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/mf_logo_short.jpg" alt="Illustration" width="50px"/>
 
-In this repository, I'm uploading code, notebooks and notebooks from my personal blog : https://maelfabien.github.io/. Don't hesitate to ⭐ the repo if you enjoy my work ! New articles are being published weekly !
+In this repository, I'm uploading code, notebooks and articles from my personal blog : https://maelfabien.github.io/. Don't hesitate to ⭐ the repo if you enjoy my work ! New articles are being published weekly !
 
 🚀 I recently started a newsletter in which I gather some cool articles I wrote on a topic, interesting Github repositories, projects, papers and more! I’ll try to send 1 to 2 emails per month. If you want to stay in the loop, just click here : http://eepurl.com/gyYzi5 
 
