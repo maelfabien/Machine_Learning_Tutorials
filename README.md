@@ -94,31 +94,6 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 
 <br>
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.jpg" alt="Illustration"/>
-
-| Article Title | Read Time | Article | Code Folder |
-| --- | --- | --- | --- |
-| A full guide to Face, Mouth and Eyes Real Time detection | 16mn | [here](https://maelfabien.github.io/tutorials/face-detection/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/01-FaceDetection) |
-| How to use OpenPose on MacOS ? | 3mn | [here](https://maelfabien.github.io/tutorials/open-pose/) | --- |
-| Introduction to Computer Vision | 1mn | [here](https://maelfabien.github.io/computervision/cv_1/) | --- |
-| Image Filtering and Image Gradients | 5mn | [here](https://maelfabien.github.io/computervision/cv_2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/04-ImageFiltering) |
-| Advanced Filtering and Image Transformation | 5mn | [here](https://maelfabien.github.io/computervision/cv_3/#) | --- |
-| Image Features, Panorama, Matching | 5mn | [here](https://maelfabien.github.io/computervision/cv_4/#) | --- |
-
-<br>
-
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nlp_head.jpg" alt="Illustration"/>
-
-| Article Title | Read Time | Article | Code Folder |
-| --- | --- | --- | --- |
-| Introduction to NLP | 1mn | [here](https://maelfabien.github.io/machinelearning/NLP_0/#) | --- |
-| Text Pre-Processing | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_1/) | --- |
-| Text Embedding with BoW and Tf-Idf  | 5mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
-| Text Embedding with Word2Vec | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
-| I trained a Neural Network to speak like me | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/SpeakLikeMe) |
-
-<br>
-
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/ts_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -206,6 +181,31 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 | Build an autoencoder using Keras functional API | 5mn | [here](https://maelfabien.github.io/deeplearning/autoencoder/) | --- |
 | XCeption Architecture | 5mn | [here](https://maelfabien.github.io/deeplearning/xception/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/Xception) |
 | GANs on the MNIST dataset | --- | --- | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/4-DeepLearning/GANs) |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| A full guide to Face, Mouth and Eyes Real Time detection | 16mn | [here](https://maelfabien.github.io/tutorials/face-detection/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/01-FaceDetection) |
+| How to use OpenPose on MacOS ? | 3mn | [here](https://maelfabien.github.io/tutorials/open-pose/) | --- |
+| Introduction to Computer Vision | 1mn | [here](https://maelfabien.github.io/computervision/cv_1/) | --- |
+| Image Filtering and Image Gradients | 5mn | [here](https://maelfabien.github.io/computervision/cv_2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/04-ImageFiltering) |
+| Advanced Filtering and Image Transformation | 5mn | [here](https://maelfabien.github.io/computervision/cv_3/#) | --- |
+| Image Features, Panorama, Matching | 5mn | [here](https://maelfabien.github.io/computervision/cv_4/#) | --- |
+
+<br>
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nlp_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| Introduction to NLP | 1mn | [here](https://maelfabien.github.io/machinelearning/NLP_0/#) | --- |
+| Text Pre-Processing | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_1/) | --- |
+| Text Embedding with BoW and Tf-Idf  | 5mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
+| Text Embedding with Word2Vec | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
+| I trained a Neural Network to speak like me | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/SpeakLikeMe) |
 
 <br>
 
