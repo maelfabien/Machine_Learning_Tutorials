@@ -47,7 +47,9 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 
 I have made a series of projects, all of which are available on my blog : https://maelfabien.github.io/portfolio/#
 
+<a href="https://maelfabien.github.io/portfolio/#">
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/projects.png" alt="Illustration"/>
+</a>
 
 # Latest articles
 
