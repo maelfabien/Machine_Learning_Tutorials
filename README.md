@@ -45,6 +45,8 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 
 # Latest articles
 
+[I trained a Neural Network to speak like me](https://maelfabien.github.io/machinelearning/NLP_4/) : Having written over 100 articles, I trained a NN to write articles just like me.
+
 [How do Neural Networks learn?](https://maelfabien.github.io/deeplearning/feed/) : Dive into feedforward process and back-propagation.
 
 [Activation functions in DL](https://maelfabien.github.io/deeplearning/act/) : An overview of the different activation functions in Deep Learning, how to implement them in Python, their advantages and disadvantages.
@@ -58,8 +60,6 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 [Machine Learning Interpretability and Explainability (2/2) - For explorium.ai](https://www.explorium.ai/blog/interpretability-and-explainability-part-2/) : An introduction to explainability of black-box ML models.
 
 [GridSearch vs. RandomizedSearch](https://maelfabien.github.io/machinelearning/GridRand/) : When it comes to parameter selection, you usually encounter 2 main solutions. GridSearch and RandomizedSearch. What is the main difference between these 2 techniques ? What are the pros and cons of each technique ?
-
-[Graph Embedding](https://maelfabien.github.io/machinelearning/graph_5/) : A practical introduction to Graph Embedding with Node2Vec and Graph2Vec.
 
 [Build a language recognition app from scratch](https://maelfabien.github.io/machinelearning/HMM_3/) : HMMs and Viterbi decoding algorithm can be used to recognize the language of a text. Let's implement this from scratch !
 
@@ -115,6 +115,7 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 | Text Pre-Processing | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_1/) | --- |
 | Text Embedding with BoW and Tf-Idf  | 5mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
 | Text Embedding with Word2Vec | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
+| I trained a Neural Network to speak like me | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/SpeakLikeMe) |
 
 <br>
 
