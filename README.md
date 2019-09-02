@@ -43,6 +43,12 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 
 <br>
 
+# Projects
+
+I have made a series of projects, all of which are available on my blog : https://maelfabien.github.io/portfolio/#
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/projects.png" alt="Illustration"/>
+
 # Latest articles
 
 [I trained a Neural Network to speak like me](https://maelfabien.github.io/machinelearning/NLP_4/) : Having written over 100 articles, I trained a NN to write articles just like me.
@@ -188,6 +194,7 @@ For the moment, these cheat sheets are written manually. I'd like to create a vi
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
+| Build an Emotion Recognition WebApp from scratch | 8mn | [here](https://maelfabien.github.io/project/poleemploi/) | [here](https://github.com/maelfabien/Multimodal-Emotion-Recognition) |
 | A full guide to Face, Mouth and Eyes Real Time detection | 16mn | [here](https://maelfabien.github.io/tutorials/face-detection/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/01-FaceDetection) |
 | How to use OpenPose on MacOS ? | 3mn | [here](https://maelfabien.github.io/tutorials/open-pose/) | --- |
 | Introduction to Computer Vision | 1mn | [here](https://maelfabien.github.io/computervision/cv_1/) | --- |
@@ -255,6 +262,7 @@ https://maelfabien.github.io/bigdata/Code/
 
 | Article Title | Read Time | Article |
 | --- | --- | --- |
+| A No-SQL project from scratch | 8mn | [here](https://maelfabien.github.io/project/nosql_recap/) |
 | Big (Open) Data, the GDelt project | 2mn | [here](https://maelfabien.github.io/bigdata/zeppelin-GDELT/) |
 | Install Zeppelin locally | 1mn | [here](https://maelfabien.github.io/bigdata/zeppelin_local/) |
 | Run Zeppelin on AWS EMR | 4mn | [here](https://maelfabien.github.io/bigdata/zeppelin_emr/) |
