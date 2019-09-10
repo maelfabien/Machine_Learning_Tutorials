@@ -69,7 +69,7 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <center><a href="https://maelfabien.github.io/year-archive/#">See More</a></center>
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/ml_head.jpg" alt="Illustration"/>
+<img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/ml_head.jpg" alt="Illustration"/>
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/s_head.jpg" alt="Illustration"/>
 
@@ -161,7 +161,7 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <br>
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/dl_head.jpg" alt="Illustration"/>
+<img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/dl_head.jpg" alt="Illustration"/>
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/tdl_head.jpg" alt="Illustration"/>
 
@@ -214,7 +214,7 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <br>
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/rl_head.jpg" alt="Illustration"/>
+<img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/rl_head.jpg" alt="Illustration"/>
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/trl_head.jpg" alt="Illustration"/>
 
@@ -226,7 +226,7 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <br>
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/bgd_head.jpg" alt="Illustration"/>
+<img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/bgd_head.jpg" alt="Illustration"/>
 
 Two general articles :
 
