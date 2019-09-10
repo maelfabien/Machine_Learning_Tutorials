@@ -219,8 +219,8 @@ I have made a series of projects, all of which are available on my blog : https:
 | Text Embedding with Word2Vec | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
 | I trained a Neural Network to speak like me | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/SpeakLikeMe) |
 | I trained a Neural Network to speak like me | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/SpeakLikeMe) |
-| Few Shot Text Classification | 10mn | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) | [here](https://maelfabien.github.io/machinelearning/NLP_5) |
-| Improved Few Shot Text Classification | 9mn | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) | [here](https://maelfabien.github.io/machinelearning/NLP_6) |
+| Few Shot Text Classification | 10mn | [here](https://maelfabien.github.io/machinelearning/NLP_5) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) | 
+| Improved Few Shot Text Classification | 9mn | [here](https://maelfabien.github.io/machinelearning/NLP_6) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) |
 <br>
 
 <img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/rl_head.jpg" alt="Illustration"/>
