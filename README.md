@@ -70,6 +70,7 @@ I have made a series of projects, all of which are available on my blog : https:
 <center><a href="https://maelfabien.github.io/year-archive/#">See More</a></center>
 
 <br>
+<br>
 
 <img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/ml_head.jpg" alt="Illustration"/>
 
