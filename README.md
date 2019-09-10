@@ -53,23 +53,19 @@ I have made a series of projects, all of which are available on my blog : https:
 
 # Latest articles
 
-[I trained a Neural Network to speak like me](https://maelfabien.github.io/machinelearning/NLP_4/) : Having written over 100 articles, I trained a NN to write articles just like me.
+[RL - Introduction to Reinforcement Learning](https://maelfabien.github.io/rl/RL_1)
 
-[How do Neural Networks learn?](https://maelfabien.github.io/deeplearning/feed/) : Dive into feedforward process and back-propagation.
+[RL - Markov Decision Process](https://maelfabien.github.io/rl/RL_2/)
 
-[Activation functions in DL](https://maelfabien.github.io/deeplearning/act/) : An overview of the different activation functions in Deep Learning, how to implement them in Python, their advantages and disadvantages.
+[RL - Planning by Dynamic Programming](https://maelfabien.github.io/rl/RL_3/)
 
-[Machine Learning Explainability](https://maelfabien.github.io/machinelearning/Explainability/) : In this series, I will summarize the course "Machine Learning Explaibnability" from Kaggle Learn. The full course is available [here](https://www.kaggle.com/learn/machine-learning-explainability). We'll cover permutation importance, partial dependence plots and SHAP Values.
+[NLP - I trained a Neural Network to speak like me](https://maelfabien.github.io/machinelearning/NLP_4/) : Having written over 100 articles, I trained a NN to write articles just like me.
 
-[Who's the painter? - For explorium.ai](https://www.explorium.ai/blog/whos-the-painter/) : An illustration of how data enrichment and feature engineering can improve a model.
+[DL - How do Neural Networks learn?](https://maelfabien.github.io/deeplearning/feed/) : Dive into feedforward process and back-propagation.
 
-[Machine Learning Interpretability and Explainability (1/2) - For explorium.ai](https://www.explorium.ai/blog/interpretability-and-explainability-part-1/) : An introduction to interpretable models with code and examples.
+[DL - Activation functions in DL](https://maelfabien.github.io/deeplearning/act/) : An overview of the different activation functions in Deep Learning, how to implement them in Python, their advantages and disadvantages.
 
-[Machine Learning Interpretability and Explainability (2/2) - For explorium.ai](https://www.explorium.ai/blog/interpretability-and-explainability-part-2/) : An introduction to explainability of black-box ML models.
-
-[GridSearch vs. RandomizedSearch](https://maelfabien.github.io/machinelearning/GridRand/) : When it comes to parameter selection, you usually encounter 2 main solutions. GridSearch and RandomizedSearch. What is the main difference between these 2 techniques ? What are the pros and cons of each technique ?
-
-[Build a language recognition app from scratch](https://maelfabien.github.io/machinelearning/HMM_3/) : HMMs and Viterbi decoding algorithm can be used to recognize the language of a text. Let's implement this from scratch !
+[ML - Machine Learning Explainability](https://maelfabien.github.io/machinelearning/Explainability/) : In this series, I will summarize the course "Machine Learning Explaibnability" from Kaggle Learn. The full course is available [here](https://www.kaggle.com/learn/machine-learning-explainability). We'll cover permutation importance, partial dependence plots and SHAP Values.
 
 <center><a href="https://maelfabien.github.io/year-archive/#">See More</a></center>
 
@@ -215,6 +211,18 @@ I have made a series of projects, all of which are available on my blog : https:
 | Text Embedding with BoW and Tf-Idf  | 5mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
 | Text Embedding with Word2Vec | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
 | I trained a Neural Network to speak like me | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/SpeakLikeMe) |
+
+<br>
+
+# Reinforcement Learning
+
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/trl_head.jpg" alt="Illustration"/>
+
+| Article Title | Read Time | Article | Code Folder |
+| --- | --- | --- | --- |
+| Introduction to Reinforcement Learning | 6mn | [here](https://maelfabien.github.io/rl/RL_1) | --- |
+| Markov Decision Process | 7mn | [here](https://maelfabien.github.io/rl/RL_2/) | --- |
+| Planning by Dynamic Programming | 4mn | [here](https://maelfabien.github.io/rl/RL_3/) | --- |
 
 <br>
 
