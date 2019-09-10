@@ -53,11 +53,11 @@ I have made a series of projects, all of which are available on my blog : https:
 
 # Latest articles
 
-[RL - Introduction to Reinforcement Learning](https://maelfabien.github.io/rl/RL_1)
+[RL - Introduction to Reinforcement Learning](https://maelfabien.github.io/rl/RL_1) : An introduction to the basic building blocks of reinforcement learning.
 
-[RL - Markov Decision Process](https://maelfabien.github.io/rl/RL_2/)
+[RL - Markov Decision Process](https://maelfabien.github.io/rl/RL_2/) : Overview of Markov Decision Process and Bellman Equation.
 
-[RL - Planning by Dynamic Programming](https://maelfabien.github.io/rl/RL_3/)
+[RL - Planning by Dynamic Programming](https://maelfabien.github.io/rl/RL_3/) : Introduction to Dynamic Programming, including Policy and Value Iteration.
 
 [NLP - I trained a Neural Network to speak like me](https://maelfabien.github.io/machinelearning/NLP_4/) : Having written over 100 articles, I trained a NN to write articles just like me.
 
