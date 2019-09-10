@@ -69,7 +69,7 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <center><a href="https://maelfabien.github.io/year-archive/#">See More</a></center>
 
-# Machine Learning
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/ml_head.jpg" alt="Illustration"/>
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/s_head.jpg" alt="Illustration"/>
 
@@ -161,7 +161,7 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <br>
 
-# Deep Learning
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/dl_head.jpg" alt="Illustration"/>
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/tdl_head.jpg" alt="Illustration"/>
 
@@ -214,7 +214,7 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <br>
 
-# Reinforcement Learning
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/rl_head.jpg" alt="Illustration"/>
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/trl_head.jpg" alt="Illustration"/>
 
@@ -226,7 +226,7 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <br>
 
-# Data Engineering 
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/bgd_head.jpg" alt="Illustration"/>
 
 Two general articles :
 
@@ -356,6 +356,10 @@ https://maelfabien.github.io/bigdata/Code/
 4. Introduction to Graphs (Part 1): https://towardsdatascience.com/introduction-to-graphs-part-1-2de6cda8c5a5
 
 5. Graph Algorithms (Part 2): https://towardsdatascience.com/graph-algorithms-part-2-dce0b2734a1d
+
+6. Graph Algorithms (Part 3): https://towardsdatascience.com/learning-in-graphs-with-python-part-3-8d5513eef62d
+
+7. I trained a neural network to speak like me: https://towardsdatascience.com/i-trained-a-network-to-speak-like-me-9552c16e2396
 
 ####
 Stay tuned :)
