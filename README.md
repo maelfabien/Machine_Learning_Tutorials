@@ -53,6 +53,10 @@ I have made a series of projects, all of which are available on my blog : https:
 
 # Latest articles
 
+[NLP - Few Shot Text Classification](https://maelfabien.github.io/machinelearning/NLP_5) : Implementation of a simple paper that leverages pre-trained models for few shot text classification.
+
+[NLP - Improved Few Shot Text Classification](https://maelfabien.github.io/machinelearning/NLP_6) : Improving previous results with Data Augmentation and more complex models.
+
 [RL - Introduction to Reinforcement Learning](https://maelfabien.github.io/rl/RL_1) : An introduction to the basic building blocks of reinforcement learning.
 
 [RL - Markov Decision Process](https://maelfabien.github.io/rl/RL_2/) : Overview of Markov Decision Process and Bellman Equation.
@@ -214,7 +218,9 @@ I have made a series of projects, all of which are available on my blog : https:
 | Text Embedding with BoW and Tf-Idf  | 5mn | [here](https://maelfabien.github.io/machinelearning/NLP_2/) | --- |
 | Text Embedding with Word2Vec | 6mn | [here](https://maelfabien.github.io/machinelearning/NLP_3/) | --- |
 | I trained a Neural Network to speak like me | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/SpeakLikeMe) |
-
+| I trained a Neural Network to speak like me | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/SpeakLikeMe) |
+| Few Shot Text Classification | 10mn | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) | [here](https://maelfabien.github.io/machinelearning/NLP_5) |
+| Improved Few Shot Text Classification | 9mn | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) | [here](https://maelfabien.github.io/machinelearning/NLP_6) |
 <br>
 
 <img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/rl_head.jpg" alt="Illustration"/>
