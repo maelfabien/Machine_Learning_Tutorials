@@ -53,6 +53,8 @@ I have made a series of projects, all of which are available on my blog : https:
 
 # Latest articles
 
+[Character-level LSTMs to predict gender of first names](https://maelfabien.github.io/machinelearning/NLP_7/) : 90% accuracy on predictiong the gender of French and US first names.
+
 [NLP - Few Shot Text Classification](https://maelfabien.github.io/machinelearning/NLP_5) : Implementation of a simple paper that leverages pre-trained models for few shot text classification.
 
 [NLP - Improved Few Shot Text Classification](https://maelfabien.github.io/machinelearning/NLP_6) : Improving previous results with Data Augmentation and more complex models.
@@ -221,6 +223,7 @@ I have made a series of projects, all of which are available on my blog : https:
 | I trained a Neural Network to speak like me | 8mn | [here](https://maelfabien.github.io/machinelearning/NLP_4/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/SpeakLikeMe) |
 | Few Shot Text Classification | 10mn | [here](https://maelfabien.github.io/machinelearning/NLP_5) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) | 
 | Improved Few Shot Text Classification | 9mn | [here](https://maelfabien.github.io/machinelearning/NLP_6) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) |
+| Predicting Gender of First Names | 7mn | [here](https://maelfabien.github.io/machinelearning/NLP_7) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/GenderClassification) |
 <br>
 
 <img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/rl_head.jpg" alt="Illustration"/>
