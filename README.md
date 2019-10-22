@@ -8,6 +8,8 @@ In this repository, I'm uploading code, notebooks and articles from my personal 
 
 🚀 I recently started a newsletter in which I gather some cool articles I wrote on a topic, interesting Github repositories, projects, papers and more! I’ll try to send 1 to 2 emails per month. If you want to stay in the loop, just click here : http://eepurl.com/gyYzi5 
 
+**NEW: I'm looking for motivated Data Scientists to help me build high quality content and create a dedicated blog**
+
 ## Table of Content :
 - [CheatSheets](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning-cheatsheet)
 - [Latest Articles](https://github.com/maelfabien/Machine_Learning_Tutorials/#latest-articles)
