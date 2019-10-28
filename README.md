@@ -358,6 +358,7 @@ https://maelfabien.github.io/bigdata/Code/
 
 4. [A guide to Face Detection - For digitalminds.io](https://www.digitalminds.io/blog/a_guide_to_face_detection_in_python) : An overview of the different techniques face Face Detection in Python (with code).
 
+5. [Modéliser des distributions avec Python (French) - For Stat4Decision](https://www.stat4decision.com/fr/distribution-donnees-python/): Distribution fitting web application with Streamlit.
 
 # Medium Articles
 
