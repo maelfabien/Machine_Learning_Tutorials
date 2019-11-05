@@ -360,6 +360,8 @@ https://maelfabien.github.io/bigdata/Code/
 
 5. [Modéliser des distributions avec Python (French) - For Stat4Decision](https://www.stat4decision.com/fr/distribution-donnees-python/): Distribution fitting web application with Streamlit.
 
+6. [Introduction au Traitement Automatique de Language Naturel (TAL) (French) - For Stat4Decision](https://www.stat4decision.com/fr/traitement-langage-naturel-francais-tal-nlp/)
+
 # Medium Articles
 
 1. Boosting and Adaboost clearly explained : https://towardsdatascience.com/boosting-and-adaboost-clearly-explained-856e21152d3e
