@@ -55,7 +55,13 @@ I have made a series of projects, all of which are available on my blog : https:
 
 # Latest articles
 
-[Character-level LSTMs to predict gender of first names](https://maelfabien.github.io/machinelearning/NLP_7/) : 90% accuracy on predictiong the gender of French and US first names.
+[CV - Implementing YoloV3 for Object Detection](https://maelfabien.github.io/computervision/yolo/) : Learn how to implement YoloV3 and detect objects on your images and videos.
+
+[NLP - Easy Question Answering with AllenNLP](https://maelfabien.github.io/machinelearning/NLP_9/) : Understand the core concepts and create a simple example of Question Answering.
+
+[NLP - Data Augmentation in NLP](https://maelfabien.github.io/machinelearning/NLP_8/) : Details of the implementation of “Easy Data Augmentation” paper.
+
+[NLP - Character-level LSTMs to predict gender of first names](https://maelfabien.github.io/machinelearning/NLP_7/) : 90% accuracy on predictiong the gender of French and US first names.
 
 [NLP - Few Shot Text Classification](https://maelfabien.github.io/machinelearning/NLP_5) : Implementation of a simple paper that leverages pre-trained models for few shot text classification.
 
@@ -210,6 +216,7 @@ I have made a series of projects, all of which are available on my blog : https:
 | Image Filtering and Image Gradients | 5mn | [here](https://maelfabien.github.io/computervision/cv_2/) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/1_Computer%20Vision/04-ImageFiltering) |
 | Advanced Filtering and Image Transformation | 5mn | [here](https://maelfabien.github.io/computervision/cv_3/#) | --- |
 | Image Features, Panorama, Matching | 5mn | [here](https://maelfabien.github.io/computervision/cv_4/#) | --- |
+| Implementing YoloV3 for Object Detection | 3mn | [here](https://maelfabien.github.io/computervision/yolo/) | --- |
 
 <br>
 
@@ -226,6 +233,9 @@ I have made a series of projects, all of which are available on my blog : https:
 | Few Shot Text Classification | 10mn | [here](https://maelfabien.github.io/machinelearning/NLP_5) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) | 
 | Improved Few Shot Text Classification | 9mn | [here](https://maelfabien.github.io/machinelearning/NLP_6) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/FewShotClassification) |
 | Predicting Gender of First Names | 7mn | [here](https://maelfabien.github.io/machinelearning/NLP_7) | [here](https://github.com/maelfabien/Machine_Learning_Tutorials/tree/master/5-NLP/GenderClassification) |
+| Data Augmentation in NLP | 3mn | [here](https://maelfabien.github.io/machinelearning/NLP_8) | --- |
+| Easy Question Answering with AllenNLP | 4mn | [here](https://maelfabien.github.io/machinelearning/NLP_9) | --- |
+
 <br>
 
 <img src="https://github.com/maelfabien/maelfabien.github.io/blob/master/assets/images/rl_head.jpg" alt="Illustration"/>
