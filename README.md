@@ -8,7 +8,7 @@ In this repository, I'm uploading code, notebooks and articles from my personal 
 
 🚀 I recently started a newsletter in which I gather some cool articles I wrote on a topic, interesting Github repositories, projects, papers and more! I’ll try to send 1 to 2 emails per month. If you want to stay in the loop, just click here : http://eepurl.com/gyYzi5 
 
-**NEW: I'm looking for motivated Data Scientists to help me build high quality content and create a dedicated blog. Please contact me if you're interested (from my website, contact section)**
+**NEW: I'm looking for motivated Data Scientists to help me build high environmental impact algorithms (CV essentially). Please contact me if you're interested (from my website, contact section)**
 
 ## Table of Content :
 - [CheatSheets](https://github.com/maelfabien/Machine_Learning_Tutorials#machine-learning-cheatsheet)
@@ -55,6 +55,15 @@ I have made a series of projects, all of which are available on my blog : https:
 
 # Latest articles
 
+
+[SP - Sound Visualization (3/3)](https://maelfabien.github.io/machinelearning/Speech10/#): Dive into spectrograms, chromagrams, tempograms, spectral power density and more...
+
+[SP - Sound Feature Extraction (2/3)](https://maelfabien.github.io/machinelearning/Speech9/#): An overview with a Python implementation of the different sound features to extract.
+
+[SP - Introduction to Voice Processing in Python (1/3)](https://maelfabien.github.io/machinelearning/Speech8/#): Summary of the book "Voice Computing with Python" with concepts, code and examples.
+
+[SP - Building a Voice Activity Detection web application](https://maelfabien.github.io/machinelearning/Speech4/#) : Voice detection can be used to start a voice assistant or in emergency cases for example. Here's how to implement it using simple methods.
+
 [CV - Implementing YoloV3 for Object Detection](https://maelfabien.github.io/computervision/yolo/) : Learn how to implement YoloV3 and detect objects on your images and videos.
 
 [NLP - Easy Question Answering with AllenNLP](https://maelfabien.github.io/machinelearning/NLP_9/) : Understand the core concepts and create a simple example of Question Answering.
@@ -76,10 +85,6 @@ I have made a series of projects, all of which are available on my blog : https:
 [NLP - I trained a Neural Network to speak like me](https://maelfabien.github.io/machinelearning/NLP_4/) : Having written over 100 articles, I trained a NN to write articles just like me.
 
 [DL - How do Neural Networks learn?](https://maelfabien.github.io/deeplearning/feed/) : Dive into feedforward process and back-propagation.
-
-[DL - Activation functions in DL](https://maelfabien.github.io/deeplearning/act/) : An overview of the different activation functions in Deep Learning, how to implement them in Python, their advantages and disadvantages.
-
-[ML - Machine Learning Explainability](https://maelfabien.github.io/machinelearning/Explainability/) : In this series, I will summarize the course "Machine Learning Explaibnability" from Kaggle Learn. The full course is available [here](https://www.kaggle.com/learn/machine-learning-explainability). We'll cover permutation importance, partial dependence plots and SHAP Values.
 
 <center><a href="https://maelfabien.github.io/year-archive/#">See More</a></center>
 
