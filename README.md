@@ -230,6 +230,8 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nlp_head.png" alt="Illustration"/>
 
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nlp_head.jpg" alt="Illustration"/>
+
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
 | Introduction to NLP | 1mn | [here](https://maelfabien.github.io/machinelearning/NLP_0/#) | --- |
