@@ -211,6 +211,8 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <br>
 
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.png" alt="Illustration"/>
+
 <img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/cv_head.jpg" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
@@ -226,7 +228,7 @@ I have made a series of projects, all of which are available on my blog : https:
 
 <br>
 
-<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nlp_head.jpg" alt="Illustration"/>
+<img src="https://github.com/maelfabien/Machine_Learning_Tutorials/blob/master/Images/nlp_head.png" alt="Illustration"/>
 
 | Article Title | Read Time | Article | Code Folder |
 | --- | --- | --- | --- |
